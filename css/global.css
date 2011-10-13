@@ -1,0 +1,13 @@
+#header, #footer {
+	background: white;
+}
+
+#figure p {
+	float: right;
+	width: 150px;
+	height: 200px;
+	margin: .5em;
+	padding: .5em;
+	background: #000;
+	color: white;
+}
