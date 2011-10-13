@@ -51,7 +51,7 @@
 	<div id="content">
 		<blockquote><blockquote><blockquote><p>
 		<p><br> <br>  <br>
-		<p>NOVINKY</div></blockquote></blockquote></blockquote>
+		<p>NOVINKY novinky</div></blockquote></blockquote></blockquote>
 	
 	<!--
 	<ul id="nav1">
