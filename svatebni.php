@@ -84,7 +84,7 @@
 					<img src="img/saty/th/483.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="160" width="120" /></a>
 				<div class="highslide-caption">
-				    abc 
+				    jjj 
 				</div>
 			</div>
 			
