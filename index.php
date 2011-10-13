@@ -70,7 +70,7 @@
 								<img src="img/Pruhonice.png" alt="Highslide JS"
 									title="Click to enlarge" height="200" width="200" />
 									</a>
-					Tento test je vhodný zejména pro vytrvalostní sporty. Jeho výsledky vypovídají o výkonnosti kardiovaskulárního systému a o oxidativní kapacitě kosterního svalstva, což jsou pro vytrvalostní sport základní předpoklady.
+					Tento aaaa test je vhodný zejména pro vytrvalostní sporty. Jeho výsledky vypovídají o výkonnosti kardiovaskulárního systému a o oxidativní kapacitě kosterního svalstva, což jsou pro vytrvalostní sport základní předpoklady.
 					Ve výkonnostní diagnostice zaujímá spotřeba kyslíku významné postavení.  Vedle srdeční frekvence a laktátu patří k nejdůležitějším diagnostickým veličinám. Maximální spotřeba kyslíku ukazuje na schopnost organismu přijmout kyslík, transportovat ho pracujícím svalům, ale také na schopnost svalů dodaný kyslík využít.
 					Smyslem testu je zjištění funkčních předpokladů smu je testovanému jedinci postupně zvyšována zátěž až do jeho osobního maxima. Po celou d
 					
