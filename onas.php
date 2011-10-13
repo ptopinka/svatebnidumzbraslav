@@ -52,7 +52,7 @@
 	<div id="content">
 		<blockquote><blockquote><blockquote><p>
 		<p><br> <br>  <br>
-		<p>O NÁS</div></blockquote></blockquote></blockquote></div>
+		<p>O NÁS o nas</div></blockquote></blockquote></blockquote></div>
 	
 	<!--
 	<ul id="nav1">
