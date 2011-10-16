@@ -58,9 +58,9 @@
 		<li>Doporučení dalších svatebních specialistů</li>
 		
 		<p> V naší malé krejčovské dílně pro vás nejen upravíme svatení nebo společenské šaty na Vaše míry, ale ušijeme i individuální nápady na družičkové šaty.
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p></div></blockquote></blockquote></blockquote></div>
+		  
+		  
+	</div>
 	
 	
 
