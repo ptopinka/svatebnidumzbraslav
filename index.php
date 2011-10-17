@@ -62,19 +62,16 @@
 				 &nbsp;  &nbsp; &nbsp;
 				<a class="noborder" href="spolecenska.php" title="Společenské šaty"><img src="img/O_spolecenske.JPG"align="left"></a>
 				
-					</div></br>Tento velky test je vhodný zejména pro vytrvalostní sporty. Jeho výsledky vypovídají o výkonnosti kardiovaskulárního systému a o oxidativní kapacitě kosterního svalstva, což jsou pro vytrvalostní sport základní předpoklady.
-								Ve výkonnostní diagnostice zaujímá spotřeba kyslíku významné postavení.  Vedle srdeční frekvence a laktátu patří k nejdůležitějším diagnostickým veličinám. Maximální spotřeba kyslíku ukazuje na schopnost organismu přijmout kyslík, transportovat ho pracujícím svalům, ale také na schopnost svalů dodaný kyslík využít.
-								Smyslem testu je zjištění funkčních předpokladů smu je testovanému jedinci postupně zvyšována zátěž až do jeho osobního maxima. Po celou dobu testu je připojen na přesné snímací zařízení, které měří požadované parametry.
-								</div>
+					</div>
+              Svatební dům Zbraslav se nachází na Zbraslavském náměstí
+					</div>
 		    
 		    <div class="banner">
 					<a href="img/Pruhonice.png" class="highslide" onclick="return hs.expand(this)">
 								<img src="img/Pruhonice.png" alt="Highslide JS"
 									title="Click to enlarge" height="200" width="200" />
 									</a>
-					Tento aaaa test je vhodný zejména pro vytrvalostní sporty. Jeho výsledky vypovídají o výkonnosti kardiovaskulárního systému a o oxidativní kapacitě kosterního svalstva, což jsou pro vytrvalostní sport základní předpoklady.
-					Ve výkonnostní diagnostice zaujímá spotřeba kyslíku významné postavení.  Vedle srdeční frekvence a laktátu patří k nejdůležitějším diagnostickým veličinám. Maximální spotřeba kyslíku ukazuje na schopnost organismu přijmout kyslík, transportovat ho pracujícím svalům, ale také na schopnost svalů dodaný kyslík využít.
-					Smyslem testu je zjištění funkčních předpokladů smu je testovanému jedinci postupně zvyšována zátěž až do jeho osobního maxima. Po celou d
+              Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.
 				</div>
 		
 			 

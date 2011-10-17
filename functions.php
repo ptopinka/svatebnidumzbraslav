@@ -33,9 +33,9 @@ function printMenu() {
 				<ul class="level">
 		
 		  <li><a href="index.php">Home</a></li></b>
-		  <li class="fly"><a href="sv_saty.php">Svatební šaty</a>
+		  <li class="fly"><a href="#">Svatební móda</a>
 					<ul>
-						
+					  <li><a href="sv_saty.php">Svatební Šaty</a></li>
 						<li><a href="sv_zavoje.php">Závoje</a></li>
 						<li><a href="sv_korunky.php">Korunky</a></li>
 						<li><a href="sv_bizu.php">Bižuterie</a></li>
