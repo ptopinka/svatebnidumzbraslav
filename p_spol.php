@@ -49,10 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>p_spolecenske</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      DOPLŇKY - p spolecenska
+	  </p>
 	
+	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">
     <?php

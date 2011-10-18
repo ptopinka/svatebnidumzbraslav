@@ -41,10 +41,23 @@ function printMenu() {
 						<li><a href="sv_bizu.php">Bižuterie</a></li>
 						<li><a href="sv_druzicky.php">Družicky</a></li>
 						<li><a href="sv_bolerka.php">Bolerka</a></li>
+						<li><a href="sv_boty.php">Boty</a></li>
 					</ul>
+      </li>
+      <li class="fly"><a href="spolecenska.php">Společenská móda</a>
+
+      					<ul>
+      					    <li><a href="sp_vecerni.php">Večerní šaty</a></li>
+      						<li><a href="sp_kokt.php">Koktejlové šaty</a></li>
+
+      						<li><a href="doplnky.php">Doplňky</a></li>
+      						<li><a href="sv_bizu.php">Bižuterie</a></li>
+      						<li><a href="akce.php">Boty</a></li>
+      					</ul>
+      		<li>
 					
 					
-		  <li class="fly"><a href="panska.php">Pánské obleky</a>
+		  <li class="fly"><a href="panska.php">Pánské móda</a>
 					<ul>
 						<li><a href="p_svat.php">Svatební</a></li>
 						<li><a href="p_spol.php">Společenské</a></li>
@@ -52,30 +65,15 @@ function printMenu() {
 						<li><a href="p_chlapecke.php">Chlapecké obleky</a></li>
 					</ul>
 		  </li>
+			<li><a href="krejcovstvi.php">Krejčovství</a></li>
+			<li><a href="cistirna.php">Čistírna</a></li>
 		  
 		  
-		  
-		  <li class="fly"><a href="spolecenska.php">Společenské šaty</a>
-		
-					<ul>
-					    <li><a href="sp_vecerni.php">Večerní šaty</a></li>
-						<li><a href="sp_kokt.php">Koktejlové šaty</a></li>
-						
-						<li><a href="doplnky.php">Doplňky</a></li>
-						<li><a href="sv_bizu.php">Bižuterie</a></li>
-						<li><a href="akce.php">Boty</a></li>
-					</ul>
-		<li>
-		<a href="partneri.php">Spolupracujeme</a></li>
-		  <li><a href="onas.php">O nás</a></li>
-		  <li class="fly"><a href="sluzby.php">Služby</a>
-				<ul>
-					<li><a href="onas.php">Krejčovství</a></li>
-						<li><a href="onas.php">Čistírna</a></li></ul>
-		  </li> 
-		  <li><a href="novinky.php">Novinky</a></li>
 		  <li><a href="akce.php">Akce</a></li></br>
-		   <li><a href="kontakt.php">Kontakt</a></li>
+		  
+		  <a href="partneri.php">Spolupracujeme</a></li>
+		  <li><a href="onas.php">O nás</a></li>
+     <li><a href="kontakt.php">Kontakt</a></li>
 			
 			
 		</ul>
@@ -90,6 +88,10 @@ function printTitle() {
   	<title>Svatební dům Zbraslav</title>
 END;
 }
+
+
+
+
 
 
 

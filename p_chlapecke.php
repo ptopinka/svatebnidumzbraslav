@@ -49,9 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>p_chlapecke obleky</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      DOPLŇKY - panske chlapecke
+	  </p>
+	
+	</div>  <!-- konec contentu-->
 	
 	<!--
 	<ul id="nav1">

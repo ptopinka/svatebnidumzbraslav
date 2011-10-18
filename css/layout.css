@@ -63,9 +63,22 @@ body {
 	}
 
 
-.obsah {width:549px;float:left;min-height: 400px;padding: 0 10px 0 0;text-align: justify;}
-.banner {width: 200px;  border-left: 1px grey dotted; float:right; padding-left: 20px;text-align: justify;
-min-height:400px;}
+.obsah { 
+	width:549px;
+	float:left;
+	min-height: 400px;
+	padding: 0 0px 0 0;
+	text-align: justify;
+	}
+
+.banner {
+	width: 200px;  
+	border-left: 1px grey dotted; 
+	float:right; 
+	padding-left: 10px;
+	text-align: justify;
+	min-height:400px;
+	}
 
 #content { 
 	position: c;

@@ -49,10 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>p_business</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      DOPLŇKY - panske business
+	  </p>
 	
+	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">
     <?php

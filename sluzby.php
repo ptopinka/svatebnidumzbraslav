@@ -56,9 +56,11 @@
 		<li> Servis a individuální poradenství</li>
 		<li>Obsluha i v cizím jazyce</li>
 		<li>Doporučení dalších svatebních specialistů</li>
-		
-		<p> V naší malé krejčovské dílně pro vás nejen upravíme svatení nebo společenské šaty na Vaše míry, ale ušijeme i individuální nápady na družičkové šaty.
-		  
+	  </ul>
+		<p> 
+		  V naší malé krejčovské dílně pro vás nejen upravíme svatení nebo společenské šaty na Vaše míry, 
+		  ale ušijeme i individuální nápady na družičkové šaty.
+		</p>  
 		  
 	</div>
 	

@@ -49,9 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>sv_korunky</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      sv korunky
+	  </p>
+	
+	</div>  <!-- konec contentu-->
 	
 	<!--
 	<ul id="nav1">

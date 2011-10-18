@@ -49,11 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>svat. moda_Bizuterie </br>
-		zároven i spolecenska moda_bizuterie?
-		</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      DOPLŇKY - sv bizu
+	  </p>
+	
+	</div>  <!-- konec contentu-->
 	
 	<!--
 	<ul id="nav1">

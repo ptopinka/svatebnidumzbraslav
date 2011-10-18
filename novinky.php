@@ -49,10 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>NOVINKY novinky2</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      novinky
+	  </p>
 	
+	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">
     <?php

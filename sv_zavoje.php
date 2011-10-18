@@ -49,9 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>DOPLŇKY - sv zavoje</div></blockquote></blockquote></blockquote></div>
+		
+		<p>
+	      DOPLŇKY - sv zavoje
+	  </p>
+	
+	</div>  <!-- konec contentu-->
 	
 	<!--
 	<ul id="nav1">

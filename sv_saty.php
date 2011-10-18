@@ -50,7 +50,7 @@
 	
 	<div id="content">
 	
-
+    <div class="obsah">  <!-- obsah je levy sirsi sloupec contentu-->
 		<h2 align="center">Svatební šaty Agnes </h2>
 
     <!-- prvni rada -->
@@ -84,6 +84,14 @@
 				    svatební model xxx
 				</div>
 				
+			
+			</div>
+
+  <!--  druha rada -->
+  		<div> 
+			
+			
+			
 				<a id="thumb1" href="img/sv_saty/agnes/10115.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sv_saty/agnes/th/10115_thumb.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="120" width="90" /></a>
@@ -106,18 +114,18 @@
 				    svatební model xxx
 				</div>
 
-
-			</div>
-
-<!--  druha rada -->
-  		<div> 
-
 				<a id="thumb1" href="img/sv_saty/agnes/10232.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sv_saty/agnes/th/10232_thumb.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="120" width="90" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
+
+			</div>
+  <!--  treti rada -->
+		  <div> 
+
+
 
 				<a id="thumb1" href="img/sv_saty/agnes/10305.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sv_saty/agnes/th/10305_thumb.jpg" alt="Highslide JS"
@@ -147,6 +155,11 @@
 				    svatební model xxx
 				</div>
 
+			</div>
+  <!--  4 rada -->
+		  <div> 
+
+
 				<a id="thumb1" href="img/sv_saty/agnes/10317_.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sv_saty/agnes/th/10317__thumb.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="120" width="90" /></a>
@@ -161,10 +174,6 @@
 				</div>
 
 
-			</div>
-
-<!--  treti rada -->
-    		<div> 
 
   				<a id="thumb1" href="img/sv_saty/agnes/10319_.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/sv_saty/agnes/th/10319__thumb.jpg" alt="Highslide JS"
@@ -178,6 +187,12 @@
   				<div class="highslide-caption">
   				    svatební model xxx
   				</div>
+
+  			</div>
+
+  <!--  5 rada -->
+  		  <div> 
+
   				<a id="thumb1" href="img/sv_saty/agnes/10350.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/sv_saty/agnes/th/10350__thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="120" width="90" /></a>
@@ -202,17 +217,17 @@
   				<div class="highslide-caption">
   				    svatební model xxx
   				</div>
+      	</div>
+    <!--  6 rada -->
+    	  <div> 
+
+
   				<a id="thumb1" href="img/sv_saty/agnes/10378_.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/sv_saty/agnes/th/10378__thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="120" width="90" /></a>
   				<div class="highslide-caption">
   				    svatební model xxx
   				</div>
-
-  			</div>
-
-<!--  4 rada -->
-    		<div> 
 
   				<a id="thumb1" href="img/sv_saty/agnes/10378_.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/sv_saty/agnes/th/10378__thumb.jpg" alt="Highslide JS"
@@ -232,6 +247,13 @@
   				<div class="highslide-caption">
   				    svatební model xxx
   				</div>
+
+      	</div>
+   <!--  7 rada -->
+      	<div> 
+
+
+
   				<a id="thumb1" href="img/sv_saty/agnes/10418_.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/sv_saty/agnes/th/10418__thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="120" width="90" /></a>
@@ -259,7 +281,7 @@
 
   			</div>
 
- <!--  5 rada -->
+ <!--  7 rada -->
     		<div> 
 
   				<a id="thumb1" href="img/sv_saty/agnes/10470.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -286,12 +308,18 @@
   				<div class="highslide-caption">
   				    svatební model xxx
   				</div>
- 
-
-  			</div>
-
+   			</div>
+    </div> <!-- end of div obsah -->
 
 
+
+    <div class="banner">
+  		<a href="img/Pruhonice.png" class="highslide" onclick="return hs.expand(this)">
+  						<img src="img/Pruhonice.png" alt="Highslide JS"
+  								  title="Click to enlarge" height="200" width="200" />
+      </a>
+            Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.
+    </div>
 
 			
 	</div> <!-- konec content-->
@@ -300,9 +328,6 @@
 
 	
 	<div id="footer">
-		<?php
-		  printFooter();
-		?>
 	</div>
 
 

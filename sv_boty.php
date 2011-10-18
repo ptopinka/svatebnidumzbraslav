@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
 
 <?php 
   require("functions.php");
@@ -49,12 +49,14 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      DOPLŇKY 
-	  </p>
 	
-	</div>  <!-- konec contentu-->
+		<p>
+		  <h4>svatební boty</h4>
+		</p>
+	
+	
+	</div> <!-- end content-->
+	
 	<!--
 	<ul id="nav1">
     <?php
@@ -62,6 +64,9 @@
     ?>
 	</ul>
 	-->
+
+	
+	
 
 	
 	<div id="footer">

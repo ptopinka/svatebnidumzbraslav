@@ -2,7 +2,8 @@
 
 <?php 
   require("functions.php");
- ?>
+ ?>
+
 
 <head>
 	<?php
@@ -66,7 +67,7 @@
 		<br>mobil: &nbsp;&nbsp;&nbsp;731 109 628
 		<p><blockquote>e-mail: &nbsp;&nbsp; info@svatebnidumzbraslav.cz</blockquote> </blockquote></blockquote>
 		</div>
-	</div>
+	</div> <!-- end of content-->
 	
 	<!--
 	<ul id="nav1">

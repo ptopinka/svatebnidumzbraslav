@@ -49,10 +49,12 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>sp_ koktejlove saty</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      DOPLŇKY - sp kokt
+	  </p>
 	
+	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">
     <?php

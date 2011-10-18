@@ -49,9 +49,13 @@
 	</div>
 	
 	<div id="content">
-		<blockquote><blockquote><blockquote><p>
-		<p><br> <br>  <br>
-		<p>spol_vecerni saty</div></blockquote></blockquote></blockquote>
+		
+		<p>
+	      DOPLŇKY - sp vecerni
+	      
+	  </p>
+	
+	</div>  <!-- konec contentu-->
 	
 	<!--
 	<ul id="nav1">
