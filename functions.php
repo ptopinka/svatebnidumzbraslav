@@ -16,12 +16,19 @@ function printHeader() {
 	print <<<END
   		 <div id="header">
   	    	<a class="noborder1" href="index.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/web_zahlavi_logo.png"></a> 
-		    <a class="noborder" href="index.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/header.png"></a>
-			<div id="new">
-				<a class="noborder" href="novinky.php" alt="tel: xxxx" title="Svatební dům Zbraslav"><img src="img/new.png"></a>
-					<!-- <div id="jazyk"><b><a href="index.php">CZ</a>&nbsp;  <a href="EN.php">EN</a> &nbsp;<a href="DE.php">DE</a></b>
-					</div> -->
-			</div>
+		      <!--
+		      <a class="noborder" href="index.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/header.png"></a>
+			    -->
+				  <!-- 
+
+			    <div id="new">
+				    <a class="noborder" href="novinky.php" alt="tel: xxxx" title="Svatební dům Zbraslav"><img src="img/new.png"></a>
+					    <div id="jazyk">
+					      <b><a href="index.php">CZ</a>&nbsp;  <a href="EN.php">EN</a> &nbsp;<a href="DE.php">DE</a></b>
+					    </div>
+			  </div>
+			   -->
+
 			<div id="prouzek"> </div>
 	</div>
 			</div>
