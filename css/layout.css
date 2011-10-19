@@ -73,11 +73,11 @@ body {
 
 .banner {
 	width: 200px;  
-	border-left: 1px grey dotted; 
+	border-left: 0px grey dotted; 
 	float:right; 
 	padding-left: 10px;
 	text-align: justify;
-	min-height:400px;
+	height:100%;
 	}
 
 #content { 
