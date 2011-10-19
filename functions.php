@@ -2,11 +2,10 @@
 
 function printMeta() {
 	print <<<END
-		<!-- pokus cestina <META HTTP-EQUIV="Pragma" CONTENT="no-cache"> -->
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
-		<!-- <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
-		<!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> -->
+		 <META HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
+
+		<META HTTP-EQUIV="Expires" CONTENT="-1"> 
+		<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 END;
 }

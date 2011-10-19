@@ -25,7 +25,7 @@
 		$.setTemplateLayout('css/layout.css');
 	});
 	</script>
-	<script type="text/javascript">													<!--FOTO ZOOM -->
+	<script type="text/javascript">													//FOTO ZOOM 
     hs.graphicsDir = 'js/highslide/graphics/';
     hs.outlineType = 'rounded-white';
 </script>
@@ -51,7 +51,7 @@
 	<div id="content">
 	
 		<p>
-		  <h4>svatební boty</h4>
+		  <h4>krejčovství </h4>
 		</p>
 	
 	
@@ -76,4 +76,4 @@
 	</div>
 
 
-</body>
+</body
