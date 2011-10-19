@@ -101,9 +101,9 @@ function printRightBanner() {
 
   print <<<END
     <div class="banner">
-   		<a href="img/Pruhonice.png" class="highslide" onclick="return hs.expand(this)">
-   						<img src="img/Pruhonice.png" alt="Highslide JS"
-   								  title="Click to enlarge" height="200" width="200" />
+   		<a>
+   						<img src="img/Pruhonice.png"
+   								 height="200" width="200" />
        </a>
              Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.
      </div>

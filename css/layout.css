@@ -64,7 +64,7 @@ body {
 
 
 .obsah { 
-	width:549px;
+	width:590px;
 	float:left;
 	min-height: 400px;
 	padding: 0 0px 0 0;
@@ -99,7 +99,7 @@ body {
 			margin: 25px 0 0 0;}
 */
 
-	#odkazy {text-align: center;width: 100%;float: left; margin:25px 0px 0 0px;
+	#odkazy {text-align: center;width: 100%;float: left; margin:0px 0px 0 0px;
 			border-left: 0px dotted #831f7f;
 			padding: 0 0px 0 0px;}
 			
