@@ -94,7 +94,7 @@
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/05.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/05_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+					title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
@@ -102,21 +102,21 @@
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/06.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/06_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/07.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/07_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/08.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/08_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
@@ -128,7 +128,7 @@
 
 					<a id="thumb1" href="img/sp_saty/ivamoda/09.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/09_thumb.jpg" alt="Highslide JS"
-					title="Click to enlarge" height="210" width="140" /></a>
+					title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
@@ -136,21 +136,21 @@
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/10.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/10_thumb.jpg" alt="Highslide JS"
-					title="Click to enlarge" height="210" width="140" /></a>
+					title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/11.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/11_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+					title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/12.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/12_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
@@ -162,28 +162,28 @@
 
   					<a id="thumb1" href="img/sp_saty/ivamoda/13.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/13_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/14.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/14_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>	
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/15.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/15_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/16.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/16_thumb.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="210" width="140" /></a>
+						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
