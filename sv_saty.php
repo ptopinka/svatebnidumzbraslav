@@ -281,7 +281,7 @@
 
   			</div>
 
- <!--  7 rada -->
+ <!--  8 rada -->
     		<div> 
 
   				<a id="thumb1" href="img/sv_saty/agnes/10470.jpg" class="highslide" onclick="return hs.expand(this)">

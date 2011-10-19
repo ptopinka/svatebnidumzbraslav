@@ -64,18 +64,18 @@ body {
 
 
 .obsah { 
-	width:588px;
+	width:580px;
 	float:left;
 	min-height: 400px;
 	padding: 0 0px 0 0;
-	text-align: justify;
+	text-align: justify; border-right: 1px grey dotted; 
 	}
 
 .banner {
 	width: 200px;  
-	border-left: 0px grey dotted; 
+	
 	float:right; 
-	padding-left: 10px;
+	margin: 0px 0 0 0px;
 	text-align: justify;
 	height:100%;
 	}
