@@ -22,15 +22,8 @@ body {
 	height: 162px;
 	
 	}
-	#new { 
-		float: right;
-		text-align: center;
-		padding: 0px 30px 0px 0px; 
-		position: relative;
-		right: 50px; 
-		top: 0px;
-		}
-		/*
+
+	/*
 	#jazyk {
 			position: absolute;
 			right: -10px; 
@@ -39,28 +32,20 @@ body {
 			font-family: Ebrima, Calibri, Geneva; 
 			}
 			*/
-			.noborder2 img {                            /*odkazy v index*/
-			border: none; margin: 0 60px 14px 0px;
-			}
-		.noborder1 img {									/*logo*/
-			border: none; margin: 0 80px 0 0px;
-			}
-		.noborder img {										/*letak*/
-			border: none;
-			}
+.noborder2 img {                            /*odkazy v index*/
+	border: none; margin: 0 0px 0px 0px;
+
+}
+.noborder1 img {									/*logo*/
+	border: none; margin: 0 80px 0 0px;
+	width: 190px;
+}
+.noborder img {										/*letak*/
+	border: none;
+}
 
 		
-#prouzek {
-	position: absolute;
-	float: right;
-	background:#831f7f; 
-	height: 32px;
-	width: 800px;
-	left: 240px;
-	bottom: 0px;
-	margin:0 0 0 0;
-	
-	}
+
 
 
 .obsah { 
