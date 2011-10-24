@@ -20,6 +20,22 @@ function printHeader() {
 		      <div class="headerbanner">
 		        <a class="noborder" href="index.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/header.png"></a>
           </div>
+
+          <div id="headercontact">
+              <div class="contacthead">
+                Zbraslavské nám. 243<br/>
+                156 00 Praha 5 Zbraslav<br/>
+                tel: 257 313 288, mobil: 731 109 628<br/>
+                email: info@svatebnidumzbraslav.cz
+              </div>
+              <div class="contactfoot">
+              <br/>
+              po-pá 12:00-18:00 hodin, so 9:00-14:00 hodin<br/>
+              (dle tel. objednávek)
+              </div>
+              
+            
+          </div>
 <!--
 			    <div id="new">
 				    <a class="noborder" href="novinky.php" alt="tel: xxxx" title="Svatební dům Zbraslav"><img src="img/new.png"></a>
