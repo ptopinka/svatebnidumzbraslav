@@ -54,6 +54,10 @@ body {
 	min-height: 400px;
 	padding: 0 0px 0 0;
 	text-align: justify; border-right: 1px grey dotted; 
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 12px;
+	color: #717171;
+	padding-right: 10px;
 	}
 
 .banner {

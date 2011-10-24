@@ -58,7 +58,10 @@
 		  
 		  <div class="obsah"> 
 		    
-		      <h4> Srdečně Vás vítáme na stránkách nově otevřeného Svatebního domu Zbraslav</h4>
+		      <p> 
+		          Vítáme Vás na stránkách Svatebního domu Zbraslav.<br/>
+		          Půjčujeme a prodáváme svatební šaty Agnes, pánské svatební a společenské obleky Masterhand a společenské šaty Jora.
+		      </p>
 				  <div id="odkazy">
 				      <a class="noborder2" href="sv_saty.php" title="Svatební šaty"><img src="img/O_svatebni.JPG" align="left"/></a> 
 				        &nbsp; &nbsp; &nbsp;
@@ -66,10 +69,6 @@
 				        &nbsp;  &nbsp; &nbsp;
 				      <a class="noborder" href="spolecenska.php" title="Společenské šaty"><img src="img/O_spolecenske.JPG"align="left"/></a>
 				  </div>
-
-					<div>
-              Svatební dům Zbraslav se nachází na Zbraslavském náměstí
-					</div>
 		    
 		  </div>
   		
