@@ -68,15 +68,21 @@
 				      <a class="noborder2" href="panska.php" title="Pánské obleky"><img src="img/O_panske.JPG" align="left"/></a> 
 				        &nbsp;  &nbsp; &nbsp;
 				      <a class="noborder" href="spolecenska.php" title="Společenské šaty"><img src="img/O_spolecenske.JPG"align="left"/></a>
+
 				  </div>
+         
+         
+          <div id="obsahmasle">
+            <img src="img/masle_bottom.png">
+          </div>
 		    
-		  </div>
+		  </div> <!-- end obsah-->
   		
   		
       <?php
         printRightBanner();
       ?>
-
+      
 		
   </div>  <!-- konec content  -->
 
