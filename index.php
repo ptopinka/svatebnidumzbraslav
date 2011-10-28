@@ -72,7 +72,7 @@
 				  </div>
          
          
-          <div id="obsahmasle">
+				<div id="obsahmasle">
             <img src="img/masle_bottom.png">
           </div>
 		    

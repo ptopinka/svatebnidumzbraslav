@@ -33,7 +33,7 @@ body {
 			}
 			*/
 .noborder2 img {                            /*odkazy v index*/
-	border: none; margin: 0 0px 0px 0px;
+	border: none; margin: 0 40px 0px 0px;
 
 }
 .noborder1 img {									/*logo*/
@@ -60,7 +60,6 @@ body {
 
 #content { 
 	position: c;
-	color: black;
 	margin: 30px 0px 0 0;
 	padding: 0px;
 	width: 800px;
@@ -77,8 +76,8 @@ body {
 			margin: 25px 0 0 0;}
 */
 
-	#odkazy {text-align: center;width: 100%;float: left; margin:0px 0px 0 0px;
-			border-left: 0px dotted #831f7f;
+	#odkazy { padding:0px 0px 0px 0px; height: 218px;
+			
 			padding: 0 0px 0 0px;}
 			
 			
