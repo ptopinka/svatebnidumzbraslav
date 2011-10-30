@@ -62,6 +62,8 @@
 		          Vítáme Vás na stránkách Svatebního domu Zbraslav.<br/>
 		          Půjčujeme a prodáváme svatební šaty Agnes, pánské svatební a společenské obleky Masterhand a společenské šaty Jora.
 		      </p>
+			 
+			
 				  <div id="odkazy">
 				      <a class="noborder2" href="sv_saty.php" title="Svatební šaty"><img src="img/O_svatebni.JPG" align="left"/></a> 
 				     

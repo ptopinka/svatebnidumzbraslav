@@ -51,9 +51,10 @@
 	<div id="content">
 	
 		<div class="obsah">
-			<p>
-	      sv korunky
-			</p>
+			<div class="titulek">Korunky</div>
+			<div class="masle">
+				<img src="img/masle.png"/>
+			</div>
 		 </div> <!-- end obsah-->
 		
 		<?php

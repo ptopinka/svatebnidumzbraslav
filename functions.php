@@ -67,9 +67,10 @@ function printMenu() {
 						<li><a href="sv_boty.php">Boty</a></li>
 					</ul>
       </li>
-      <li class="fly"><a href="spolecenska.php">Společenská móda</a>
+      <li class="fly"><a href="#">Společenská móda</a>
 
       					<ul>
+							<li><a href="spolecenska.php">Společenské šaty</a>
       					    <li><a href="sp_vecerni.php">Večerní šaty</a></li>
       						<li><a href="sp_kokt.php">Koktejlové šaty</a></li>
 
@@ -80,21 +81,22 @@ function printMenu() {
       		<li>
 					
 					
-		  <li class="fly"><a href="panska.php">Pánské móda</a>
+		  <li class="fly"><a href="panska.php">Pánská móda</a>
 					<ul>
 						<li><a href="p_svat.php">Svatební</a></li>
 						<li><a href="p_spol.php">Společenské</a></li>
 						<li><a href="p_business.php">Business</a></li>
 						<li><a href="p_chlapecke.php">Chlapecké obleky</a></li>
 					</ul>
-		  </li>
+		  </li></br>
 			<li><a href="krejcovstvi.php">Krejčovství</a></li>
-			<li><a href="cistirna.php">Čistírna</a></li>
+			<li><a href="cistirna.php">Čistírna</a></li></br>
 		  
 		  
-		  <li><a href="akce.php">Akce</a></li></br>
 		  
-		  <a href="partneri.php">Spolupracujeme</a></li>
+		  
+		  <li><a href="partneri.php">Spolupracujeme</a></li>
+		  <li><a href="akce.php">Akce</a></li>
 		  <li><a href="onas.php">O nás</a></li>
      <li><a href="kontakt.php">Kontakt</a></li>
 			

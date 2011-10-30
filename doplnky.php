@@ -50,9 +50,10 @@
 	
 	<div id="content">
 		<div class="obsah">
-			<p>
-			DOPLŇKY 
-			</p>
+			<div class="titulek">Doplňky</div>
+			<div class="masle">
+				<img src="img/masle.png"/>
+			</div>
 		</div> <!-- end obsah-->
   		
   	

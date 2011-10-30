@@ -51,7 +51,10 @@
 	<div id="content">
 	
     <div class="obsah">  <!-- obsah je levy sirsi sloupec contentu-->
-		<h2 align="center">Svatební šaty Agnes </h2>
+		 <div class="titulek">Svatební šaty Agnes</div>
+			<div class="masle">
+				<img src="img/masle.png"/>
+			</div>
 
     <!-- prvni rada -->
 		<div> 

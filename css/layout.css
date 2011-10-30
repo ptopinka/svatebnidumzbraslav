@@ -112,7 +112,6 @@ body {
 	background:white;
 	font-size: 1em;
 	width: 190px;     										  /* SIRKA MENU*/
-	color: black;
 	margin: 0px;
 	font-family: Calibri, Ebrima, Geneva; 
 	font-size: 15px;
@@ -157,7 +156,7 @@ list-style: none;
 #pmenu a:hover {  
 	text-decoration:none;
 	color: white;              /* barva pisma najeteho  */
-	background: black;}            
+	background: #c579b3;}            
 
 			/* For Non-IE browsers and IE7 */
 #pmenu li:hover {

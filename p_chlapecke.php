@@ -50,9 +50,10 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<p>
-			Chlapecke obleky
-			</p>
+			<div class="titulek">Chlapecké obleky</div>
+			<div style="text-align:center;">
+				<img src="img/masle.png"/>
+			</div>
 	
 		</div> <!-- end obsah-->
   		

@@ -49,8 +49,10 @@
 	</div>
 	
 	<div id="content">
-		<h3>Služby</h3>
-		<ul>
+		<div class="titulek">Služby</div>
+			<div class="masle">
+				<img src="img/masle.png"/>
+			</div>
 		
 	
 	  </ul>

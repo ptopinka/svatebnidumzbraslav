@@ -50,9 +50,10 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<p>
-			panska - spol
-			</p>
+			<div class="titulek">Pánské společenské obleky</div>
+			<div style="text-align:center;">
+				<img src="img/masle.png"/>
+			</div>
 	
 		</div> <!-- end obsah-->
   		

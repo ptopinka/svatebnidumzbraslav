@@ -54,10 +54,10 @@
 			<div style="text-align:center;">
 				<img src="img/masle.png"/>
 			</div>
-			<p> 
+			<div style="width:400px; float: center;"> 
 		  V naší malé krejčovské dílně pro vás nejen upravíme svatební nebo společenské šaty na Vaše míry, 
 		  ale ušijeme i individuální nápady na družičkové šaty.
-			</p>
+			</div>
 	
 		</div> <!-- end obsah-->
   		

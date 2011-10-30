@@ -50,9 +50,10 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<p>
-			DOPLŇKY - sp kokt
-			</p>
+			<div class="titulek">Koktejlové šaty</div>
+			<div class="masle">
+				<img src="img/masle.png"/>
+			</div>
 	
 		</div> <!-- end obsah-->
   		

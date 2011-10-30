@@ -50,10 +50,10 @@
 	
 	<div id="content">
 		 <div class="obsah"> 
-		<p>
-	      DOPLŇKY - sp vecerni
-	      
-	  </p>
+			<div class="titulek">Večerní šaty</div>
+			<div class="masle">
+				<img src="img/masle.png"/>
+			</div>
 	
 		</div> <!-- end obsah-->
 			  <?php
