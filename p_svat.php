@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      DOPLŇKY - p svatebni
-	  </p>
+		<div class="obsah"> 
+			<p>
+			panska svatebni
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">

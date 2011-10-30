@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      Akce
-	  </p>
+		<div class="obsah"> 
+			<p>
+			Akce
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">

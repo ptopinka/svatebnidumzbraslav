@@ -49,13 +49,18 @@
 	</div>
 	
 	<div id="content">
+		<div class="obsah"> 
+			<p>
+			Krejcovstvi
+			</p>
 	
-		<p>
-		  <h4>krejčovství </h4>
-		</p>
-	
-	
-	</div> <!-- end content-->
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
+	</div>  <!-- konec contentu-->
 	
 	<!--
 	<ul id="nav1">

@@ -49,24 +49,26 @@
 	</div>
 	
 	<div id="content">
-		<div class="obsah">
+		<div class="obsah"> 
 			<p>
-			DOPLŇKY 
+			BOTY - sp boty
 			</p>
+	
 		</div> <!-- end obsah-->
   		
   	
-		<?php
+		  <?php
 			printRightBanner();
-		?>
+		  ?>
 	</div>  <!-- konec contentu-->
-	<!--
-	<ul id="nav1">
-    <?php
-      //printHorizontalMenu();
-    ?>
-	</ul>
-	-->
+	
+		<!--
+		<ul id="nav1">
+			<?php
+			  //printHorizontalMenu();
+			?>
+		</ul>
+		-->
 
 	
 	<div id="footer">

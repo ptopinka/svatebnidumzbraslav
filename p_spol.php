@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      DOPLŇKY - p spolecenska
-	  </p>
+		<div class="obsah"> 
+			<p>
+			panska - spol
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">

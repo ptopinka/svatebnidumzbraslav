@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	     panske obleky
-	  </p>
+		<div class="obsah"> 
+			<p>
+			panske obleky
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">

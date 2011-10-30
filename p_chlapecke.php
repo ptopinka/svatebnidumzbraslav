@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      DOPLŇKY - panske chlapecke
-	  </p>
+		<div class="obsah"> 
+			<p>
+			Chlapecke obleky
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	
 	<!--

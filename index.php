@@ -64,27 +64,23 @@
 		      </p>
 				  <div id="odkazy">
 				      <a class="noborder2" href="sv_saty.php" title="Svatební šaty"><img src="img/O_svatebni.JPG" align="left"/></a> 
-				        &nbsp; &nbsp; &nbsp;
+				     
 				      <a class="noborder2" href="panska.php" title="Pánské obleky"><img src="img/O_panske.JPG" align="left"/></a> 
-				        &nbsp;  &nbsp; &nbsp;
+				        
 				      <a class="noborder" href="spolecenska.php" title="Společenské šaty"><img src="img/O_spolecenske.JPG"align="left"/></a>
 
 				  </div>
          
          
 				<div id="obsahmasle">
-            <img src="img/masle_bottom.png">
-          </div>
+					<img src="img/masle_bottom.png">
+				</div>
 		    
 		  </div> <!-- end obsah-->
-  		
-  		
-      <?php
-        printRightBanner();
-      ?>
-      
-		
-  </div>  <!-- konec content  -->
+			  <?php
+				printRightBanner();
+			  ?>
+		</div>  <!-- konec content  -->
 
 
 

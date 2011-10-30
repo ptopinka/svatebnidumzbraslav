@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      sv korunky
-	  </p>
 	
+		<div class="obsah">
+			<p>
+	      sv korunky
+			</p>
+		 </div> <!-- end obsah-->
+		
+		<?php
+        printRightBanner();
+      ?>
+	  
 	</div>  <!-- konec contentu-->
 	
 	<!--

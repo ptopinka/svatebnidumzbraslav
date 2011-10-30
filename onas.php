@@ -50,11 +50,17 @@
 	
 	
 	<div id="content">
-		
-		<p>
-	      o nas
-	  </p>
+		<div class="obsah"> 
+			<p>
+			O nas
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	
 	<!--

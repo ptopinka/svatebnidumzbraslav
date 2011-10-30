@@ -49,13 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
+		 <div class="obsah"> 
 		<p>
 	      DOPLŇKY - sp vecerni
 	      
 	  </p>
 	
-	</div>  <!-- konec contentu-->
+		</div> <!-- end obsah-->
+			  <?php
+				printRightBanner();
+			  ?>
+	</div>  <!-- konec content  -->
 	
 	<!--
 	<ul id="nav1">

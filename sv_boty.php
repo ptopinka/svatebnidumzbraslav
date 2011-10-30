@@ -49,13 +49,17 @@
 	</div>
 	
 	<div id="content">
+		<div class="obsah"> 
+			<p>
+			  <h4>svatební boty</h4>
+			</p>
 	
-		<p>
-		  <h4>svatební boty</h4>
-		</p>
 	
-	
-	</div> <!-- end content-->
+		</div> <!-- end obsah-->
+			  <?php
+				printRightBanner();
+			  ?>
+	</div>  <!-- konec content  -->
 	
 	<!--
 	<ul id="nav1">

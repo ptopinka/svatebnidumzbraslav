@@ -49,11 +49,17 @@
 	</div>
 	
 	<div id="content">
-		
-		<p>
-	      DOPLŇKY - panske business
-	  </p>
+		<div class="obsah"> 
+			<p>
+			panske business obleky
+			</p>
 	
+		</div> <!-- end obsah-->
+  		
+  	
+		  <?php
+			printRightBanner();
+		  ?>
 	</div>  <!-- konec contentu-->
 	<!--
 	<ul id="nav1">

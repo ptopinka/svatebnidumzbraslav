@@ -50,23 +50,27 @@
 	</div>
 	
 	<div id="content">
-		<div align="center">
-		<p><br>
-		<p><blockquote>Zbraslavské nám. 463
-		<br>156 00 Praha 5 - Zbraslav
+		<div class="obsahcenter" >
+			<p><br>
+			<p><blockquote>Zbraslavské nám. 463
+			<br>156 00 Praha 5 - Zbraslav
 		
-		 <p><hr>
-		<table border="0" width="250px" float="left" text-align="center" >
-					<CAPTION><b>Otevírací doba</b></CAPTION>
-		<tr> <td>po - pá <td>12.00 - 18.00
-			</tr>
-		<tr>	<td>	so
-			<td>9.00  -	14.00 </tr>
-		<tr>		<td><td>	(dle tel. objednávek)</table>
-		<p><blockquote>tel.:&nbsp; &nbsp; &nbsp; 257 313 288
-		<br>mobil: &nbsp;&nbsp;&nbsp;731 109 628
-		<p><blockquote>e-mail: &nbsp;&nbsp; info@svatebnidumzbraslav.cz</blockquote> </blockquote></blockquote>
-		</div>
+			 <p><hr>
+			<table border="0" width="250px" align="center" >
+						<CAPTION><b>Otevírací doba</b></CAPTION>
+			<tr> <td>po - pá <td>12.00 - 18.00
+				</tr>
+			<tr>	<td>	so
+				<td>9.00  -	14.00 </tr>
+			<tr>		<td><td>	(dle tel. objednávek)</table>
+			<p><blockquote>tel.:&nbsp; &nbsp; &nbsp; 257 313 288
+			<br>mobil: &nbsp;&nbsp;&nbsp;731 109 628
+			<p><blockquote>e-mail: &nbsp;&nbsp; info@svatebnidumzbraslav.cz</blockquote> </blockquote></blockquote>
+		</div> <!-- end obsah-->
+  		
+		  <?php
+			printRightBanner();
+		  ?>
 	</div> <!-- end of content-->
 	
 	<!--

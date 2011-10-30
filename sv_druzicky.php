@@ -49,12 +49,18 @@
 	</div>
 	
 	<div id="content">
-		
+		<div class="obsah"> 
 		<p>
 	      DOPLŇKY - sv druzicky
 	  </p>
-	
-	</div>  <!-- konec contentu-->
+	  
+		</div> <!-- end obsah-->
+			  <?php
+				printRightBanner();
+			  ?>
+	</div>  <!-- konec content  -->
+		
+		
 	<!--
 	<ul id="nav1">
     <?php

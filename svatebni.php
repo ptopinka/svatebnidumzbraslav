@@ -53,7 +53,7 @@
 		<div> 
 				<a id="thumb1" href="img/saty/483.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/saty/th/483.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="160" width="120" /></a>
+						title="Click to enlarge" height="200" width="135" /></a>
 				<div class="highslide-caption">
 				    abc 
 				</div>
@@ -61,20 +61,20 @@
 
 				<a id="thumb1" href="img/saty/79.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/saty/th/79.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="160" width="120" /></a>
+						title="Click to enlarge" height="200" width="135" /></a>
 				<div class="highslide-caption">
 				    abc				</div>
 
 				<a id="thumb1" href="img/saty/483.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/saty/th/483.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="160" width="120" /></a>
+						title="Click to enlarge" height="200" width="135" /></a>
 				<div class="highslide-caption">
 				    				    abc
 				</div>
 				
 				<a id="thumb1" href="img/saty/79.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/saty/th/79.jpg" alt="Highslide JS"
-						title="Click to enlarge" height="160" width="120" />
+						title="Click to enlarge" height="200" width="135" /></a>
 						</a>
 				<div class="highslide-caption">
 				    abc 

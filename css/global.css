@@ -62,13 +62,21 @@
 	float:left;
 	min-height: 400px;
 	padding: 0 0px 0 0;
-	text-align: justify; border-right: 1px grey dotted; 
+	text-align: justify; border-right: 0px grey dotted; 
 	font-family: Calibri, Ebrima, Geneva; 
-	font-size: 12px;
+	font-size: 15px;
 	color: #717171;
 	padding-right: 10px;
 	}
-
+.obsahcenter{width:580px;
+	float: left;
+	min-height: 400px;
+	padding: 0 0px 0 0;
+	text-align: center; border-right: 0px grey dotted; 
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 15px;
+	color: #717171;
+	padding-right: 10px;}
 
 #prouzek {
 	position: absolute;

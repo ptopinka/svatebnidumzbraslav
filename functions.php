@@ -23,7 +23,7 @@ function printHeader() {
 
           <div id="headercontact">
               <div class="contacthead">
-                Zbraslavské nám. 243<br/>
+                Zbraslavské nám. 463<br/>
                 156 00 Praha 5 Zbraslav<br/>
                 tel: 257 313 288, mobil: 731 109 628<br/>
                 email: info@svatebnidumzbraslav.cz
@@ -74,7 +74,7 @@ function printMenu() {
 
       						<li><a href="doplnky.php">Doplňky</a></li>
       						<li><a href="sv_bizu.php">Bižuterie</a></li>
-      						<li><a href="akce.php">Boty</a></li>
+      						<li><a href="sp_boty.php">Boty</a></li>
       					</ul>
       		<li>
 					

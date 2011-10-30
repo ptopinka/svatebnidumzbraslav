@@ -13,7 +13,7 @@ lang : {
 	loadingTitle : 'Click to cancel',
 	focusTitle : 'Click to bring to front',
 	fullExpandTitle : 'Expand to actual size (f)',
-	creditsText : 'Powered by <i>Hrošík</i>',
+	creditsText : '',
 	creditsTitle : 'Go to the Highslide JS homepage',
 	previousText : 'Previous',
 	nextText : 'Next', 
