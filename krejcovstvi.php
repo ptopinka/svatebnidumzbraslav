@@ -50,8 +50,13 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<p>
-			Krejcovstvi
+		<div class="titulek">Krejčovství</div>
+			<div style="text-align:center;">
+				<img src="img/masle.png"/>
+			</div>
+			<p> 
+		  V naší malé krejčovské dílně pro vás nejen upravíme svatební nebo společenské šaty na Vaše míry, 
+		  ale ušijeme i individuální nápady na družičkové šaty.
 			</p>
 	
 		</div> <!-- end obsah-->

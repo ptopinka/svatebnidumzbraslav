@@ -1,7 +1,7 @@
 #header, #footer {
 	background: white;
 }
-
+h2{text-align: center;}
 #figure p {
 	float: right;
 	width: 150px;
@@ -12,7 +12,7 @@
 	color: white;
 }
 
-
+.titulek{font-size: 22px;text-align: center; font-weight: bold; margin: 10px 0 0 0;}
 .headerlogo {
 	width: 240px;
 	float: left;
@@ -38,7 +38,7 @@
 #headercontact {
 	float: right;
 	text-align: center;
-	width: 200px;
+	width: 245px;
 }
 
 #new { 

@@ -51,14 +51,11 @@
 	<div id="content">
 		<h3>Služby</h3>
 		<ul>
-		<li>Čistírna</li>
-		<li> Vlastní krejčovství</li>
-		<li> Servis a individuální poradenství</li>
-		<li>Obsluha i v cizím jazyce</li>
-		<li>Doporučení dalších svatebních specialistů</li>
+		
+	
 	  </ul>
 		<p> 
-		  V naší malé krejčovské dílně pro vás nejen upravíme svatení nebo společenské šaty na Vaše míry, 
+		  V naší malé krejčovské dílně pro vás nejen upravíme svatební nebo společenské šaty na Vaše míry, 
 		  ale ušijeme i individuální nápady na družičkové šaty.
 		</p>  
 		  

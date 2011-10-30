@@ -22,7 +22,7 @@ function printHeader() {
           </div>
 
           <div id="headercontact">
-              <div class="contacthead">
+              <!--<div class="contacthead">
                 Zbraslavské nám. 463<br/>
                 156 00 Praha 5 Zbraslav<br/>
                 tel: 257 313 288, mobil: 731 109 628<br/>
@@ -32,7 +32,8 @@ function printHeader() {
               <br/>
               po-pá 12:00-18:00 hodin, so 9:00-14:00 hodin<br/>
               (dle tel. objednávek)
-              </div>
+              </div> --> 
+			  <img src="img/kontakt.gif">
               
             
           </div>
@@ -118,10 +119,10 @@ function printRightBanner() {
   print <<<END
     <div class="banner">
    		<a>
-   						<img src="img/Pruhonice.png"
-   								 height="200" width="200" />
+   						<img src="img/akce.JPG"
+   								 height="229" width="200" />
        </a>
-             Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.
+             <!--Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.-->
      </div>
 END;
 }

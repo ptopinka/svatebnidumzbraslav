@@ -14,10 +14,10 @@
 	text-decoration: none;
 }
 .highslide img {
-	border: 2px solid silver;
+	border: 0px solid silver;
 }
 .highslide:hover img {
-	border-color: gray;
+	border-color: none;
 }
 .highslide-active-anchor img {
 	visibility: hidden;
