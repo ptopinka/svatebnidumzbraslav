@@ -53,7 +53,7 @@
 		<div class="obsahcenter" >
 		
 			<div class="titulek">Kontakty</div>
-			<div style="text-align:center; margin: 0 0 20px 0;">
+			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
 

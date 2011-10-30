@@ -51,7 +51,7 @@
 	<div id="content">
 		<div class="obsah"> 
 			<div class="titulek">Business obleky</div>
-			<div style="text-align:center;">
+			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
 	
