@@ -33,7 +33,8 @@ function printHeader() {
               po-pá 12:00-18:00 hodin, so 9:00-14:00 hodin<br/>
               (dle tel. objednávek)
               </div> --> 
-			  <img src="img/kontakt.gif">
+			  
+			  <a class="noborder1" href="kontakt.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/kontakt.gif"></a> 
               
             
           </div>
