@@ -59,7 +59,7 @@ function printMenu() {
 		  <li><a href="index.php">Úvod</a></li></b>
 		  <li class="fly"><a href="#">Svatební móda</a>
 					<ul>
-					  <li><a href="sv_saty.php">Svatební Šaty</a></li>
+					  <li><a href="sv_saty.php">Svatební šaty</a></li>
 						<li><a href="sv_zavoje.php">Závoje</a></li>
 						<li><a href="sv_korunky.php">Korunky</a></li>
 						<li><a href="sv_bizu.php">Bižuterie</a></li>
@@ -103,6 +103,8 @@ function printMenu() {
 			
 			
 		</ul>
+		
+		
 				
 END;
 }
@@ -127,6 +129,11 @@ function printRightBanner() {
        </a>
              <!--Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.-->
      </div>
+    <div class="banner" style="text-align:right;">
+     <a href="https://www.facebook.com/pages/Svatebn%C3%AD-d%C5%AFm-Zbraslav/138554529553318" target="_blank"><img src="img/facebook_badge.jpg" alt="Check us out on Facebook!" /></a>
+		
+    </div> 
+    
 END;
 }
 
