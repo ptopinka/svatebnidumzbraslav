@@ -56,7 +56,7 @@
 			</div>
 			<div class="masle"> 
 		  V naší malé krejčovské dílně pro vás nejen upravíme svatební nebo společenské šaty na Vaše míry, 
-		  ale ušijeme i individuální nápady na družičkové šaty.
+		  ale ušijeme i individuální nápady na šaty pro družičky.
 			</div>
 	
 		</div> <!-- end obsah-->

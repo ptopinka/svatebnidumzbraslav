@@ -58,6 +58,17 @@ h2{text-align: center;}
 	
 }
 
+.company {
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 10px;
+	color: #717171;	
+}
+
+.company a {
+	  
+		text-decoration:none;
+}
+
 .obsah { 
 	width:580px;
 	float:left;

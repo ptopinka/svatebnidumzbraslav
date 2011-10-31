@@ -56,14 +56,14 @@ function printMenu() {
 			<b>
 				<ul class="level">
 		
-		  <li><a href="index.php">Home</a></li></b>
+		  <li><a href="index.php">Úvod</a></li></b>
 		  <li class="fly"><a href="#">Svatební móda</a>
 					<ul>
 					  <li><a href="sv_saty.php">Svatební Šaty</a></li>
 						<li><a href="sv_zavoje.php">Závoje</a></li>
 						<li><a href="sv_korunky.php">Korunky</a></li>
 						<li><a href="sv_bizu.php">Bižuterie</a></li>
-						<li><a href="sv_druzicky.php">Družicky</a></li>
+						<li><a href="sv_druzicky.php">Družičky</a></li>
 						<li><a href="sv_bolerka.php">Bolerka</a></li>
 						<li><a href="sv_boty.php">Boty</a></li>
 					</ul>
@@ -84,9 +84,9 @@ function printMenu() {
 					
 		  <li class="fly"><a href="panska.php">Pánská móda</a>
 					<ul>
-						<li><a href="p_svat.php">Svatební</a></li>
-						<li><a href="p_spol.php">Společenské</a></li>
-						<li><a href="p_business.php">Business</a></li>
+						<li><a href="p_svat.php">Svatební obleky</a></li>
+						<li><a href="p_spol.php">Společenské obleky</a></li>
+						<li><a href="p_business.php">Business obleky</a></li>
 						<li><a href="p_chlapecke.php">Chlapecké obleky</a></li>
 					</ul>
 		  </li></br>
@@ -134,7 +134,9 @@ END;
 
 function printFooter() {
 	print <<<END
-      <p>Veroo (r)</p>
+      <div  class="company">
+      <p>Created By Veroo &copy; <a href="mailto:ptopinka@gmail.com">email</a></p>
+      </div>
 END;
 }
 
