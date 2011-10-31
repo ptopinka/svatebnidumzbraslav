@@ -139,7 +139,7 @@ border-right: 0px dotted #831f7f;}
 
 			/* Set up the sub level borders */
 #pmenu li ul li a, #pmenu li ul li a:visited {
-background: AntiqueWhite ;   						/*WhiteSmoke barva pozadi rozvinute tabulky  */
+background: #C8C8C8 ;   						/*WhiteSmoke barva pozadi rozvinute tabulky  */
 
 }
 #pmenu li ul li a:hover {background:#c579b3; }
