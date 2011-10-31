@@ -49,13 +49,14 @@
 	</div>
 	
 	<div id="content">
-		<div class="titulek">Služby</div>
+		<div class="obsah"> 
+			<div class="titulek">Služby</div>
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
 		
 	
-	  </ul>
+		</div> 
 		<p> 
 		  V naší malé krejčovské dílně pro vás nejen upravíme svatební nebo společenské šaty na Vaše míry, 
 		  ale ušijeme i individuální nápady na družičkové šaty.
