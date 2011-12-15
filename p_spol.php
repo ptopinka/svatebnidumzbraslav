@@ -50,7 +50,7 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<div class="titulek">Pánské společenské obleky</div>
+			<div class="titulek">Půjčovna svatebních obleků</div>
 			<div style="text-align:center;">
 				<img src="img/masle.png"/>
 			</div>

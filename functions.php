@@ -60,46 +60,78 @@ function printMenu() {
 		  <li class="fly"><a href="#">Svatební móda</a>
 					<ul>
 					  <li><a href="sv_saty.php">Svatební šaty</a></li>
-						<li><a href="sv_zavoje.php">Závoje</a></li>
-						<li><a href="sv_korunky.php">Korunky</a></li>
-						<li><a href="sv_bizu.php">Bižuterie</a></li>
-						<li><a href="sv_druzicky.php">Družičky</a></li>
-						<li><a href="sv_bolerka.php">Bolerka</a></li>
-						<li><a href="sv_boty.php">Boty</a></li>
+					  <li><a href="doplnky.php">Doplňky</a></li>
+					  
+							<!-- v novem navrhu NENI
+									<li><a href="sv_zavoje.php">Závoje</a></li>							
+									<li><a href="sv_korunky.php">Korunky</a></li>						
+									<li><a href="sv_bizu.php">Bižuterie</a></li>						
+									<li><a href="sv_druzicky.php">Družičky</a></li>						
+									<li><a href="sv_bolerka.php">Bolerka</a></li>						
+									<li><a href="sv_boty.php">Boty</a></li>			
+											-->
 					</ul>
-      </li>
-      <li class="fly"><a href="#">Společenská móda</a>
+			</li>
+      <li class="fly"><a href="spolecenska.php">Společenská móda</a>
 
       					<ul>
-							<li><a href="spolecenska.php">Společenské šaty</a>
-      					    <li><a href="sp_vecerni.php">Večerní šaty</a></li>
-      						<li><a href="sp_kokt.php">Koktejlové šaty</a></li>
+							<li><a href="sp_kokt.php">Koktejlky</a></li>
+							<li><a href="sp_vecerni.php">Večerní šaty</a></li>
+							<li><a href="sp_bolerka.php">Bolérka</a></li>
+							<li><a href="sp_boty.php">Společenská obuv</a></li>
+							<li><a href="sp_kabelky.php">Kabelky</a></li>
+							<li><a href="sp_pradloSELMARK.php">prádlo SELMARK</a></li>
+							<li><a href="sp_fcniJANIRA.php">prádlo JANIRA</a></li>
+							<li><a href="sp_kosmetikaARTDECO.php">Kosmetika</a></li>
+							<li><a href="sp_puncochy.php">Punčochové zboží</a></li>
+							<li><a href="sp_rukavicky.php">Rukavičky</a></li>
+							<li><a href="sp_spolecenska3XL.php">Spol. móda XXXL</a></li>
 
-      						<li><a href="doplnky.php">Doplňky</a></li>
-      						<li><a href="sv_bizu.php">Bižuterie</a></li>
-      						<li><a href="sp_boty.php">Boty</a></li>
+							
+							
+							<!-- v novem navrhu neni
+								<li><a href="spolecenska.php">Společenské šaty</a></li> 				
+								<li><a href="doplnky.php">Doplňky</a></li>							
+								-->
+      						
+      						
       					</ul>
       		<li>
 					
 					
 		  <li class="fly"><a href="panska.php">Pánská móda</a>
 					<ul>
-						<li><a href="p_svat.php">Svatební obleky</a></li>
-						<li><a href="p_spol.php">Společenské obleky</a></li>
-						<li><a href="p_business.php">Business obleky</a></li>
-						<li><a href="p_chlapecke.php">Chlapecké obleky</a></li>
+						<li><a href="p_svatprodej.php">Prodej</a></li>
+						<li><a href="p_svatpujc.php">Půjčovna</a></li>
+						<li><a href="p_business.php">Business móda</a></li>
+						
 					</ul>
 		  </li></br>
-			<li><a href="krejcovstvi.php">Krejčovství</a></li>
-			<li><a href="cistirna.php">Čistírna</a></li></br>
+		  <li><a href="detske.php">Dětské obleky</a></li>
+		  <li><a href="druzicky.php">Šaty pro družičky</a></li>
+		  <li class="fly"><a href="sluzby.php">Služby</a>
+					<ul>
+						<li><a href="krejcovstvi.php">Zakázové krejčovství</a></li>
+						<li><a href="cistirna.php">Čistírna košil</a></li>
+						<li><a href="sl_vizaz.php">Vizážistka</a></li>
+						<li><a href="sl_kader.php">Kadeřnice</a></li>
+						<li><a href="sl_foto.php">Fotograf</a></li>
+						<li><a href="sl_kvet.php">Květiny</a></li>
+						<li><a href="sl_oznam.php">Svatební oznámení</a></li>
+						<li><a href="sl_tabule.php">Výzdoba sv. tabule</a></li>
+						<li><a href="sl_cukrarna.php">Cukrárna</a></li>
+						<li><a href="sl_restaurace.php">Restaurace</a></li>
+					</ul></li>
+			</br>
+			<li><a href="reference.php">Reference</a></li>
+			<li><a href="media.php">Média</a></li>
+			<li><a href="akce.php">Akce</a></li>
+			<li><a href="kontakt.php">Kontakt</a></li>
 		  
+					<!-- <li><a href="partneri.php">Spolupracujeme</a></li> -->
 		  
-		  
-		  
-		  <li><a href="partneri.php">Spolupracujeme</a></li>
-		  <li><a href="akce.php">Akce</a></li>
-		  <li><a href="onas.php">O nás</a></li>
-     <li><a href="kontakt.php">Kontakt</a></li>
+					<!-- <li><a href="onas.php">O nás</a></li> -->
+     
 			
 			
 		</ul>

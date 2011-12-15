@@ -50,7 +50,7 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<div class="titulek">Bolerka</div>
+			<div class="titulek">Bolérka</div>
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
