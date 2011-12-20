@@ -56,8 +56,10 @@
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
-
-
+      <div>
+        <img src="img/kontakt/prodejna.JPG">
+      </div>
+        
 			<p><blockquote>Zbraslavské nám. 463
 			<br>156 00 Praha 5 - Zbraslav
 		
