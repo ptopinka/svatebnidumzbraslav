@@ -107,7 +107,7 @@ function printMenu() {
 						
 					</ul>
 		  </li></br>
-		  <li><a href="detske.php">Dětské obleky</a></li>
+		  <li><a href="detske.php">Chlapecké obleky</a></li>
 		  <li><a href="druzicky.php">Šaty pro družičky</a></li>
 		  <li class="fly"><a href="sluzby.php">Služby</a>
 					<ul>

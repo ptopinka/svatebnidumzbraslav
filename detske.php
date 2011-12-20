@@ -50,10 +50,38 @@
 	
 	<div id="content">
 		<div class="obsah"> 
-			<div class="titulek">Dětské obleky</div>
+			<div class="titulek">Chlapecké obleky</div>
 			<div style="text-align:center;">
 				<img src="img/masle.png"/>
 			</div>
+      <br/>
+      <!-- +RADA -->
+      <div align="center">
+				<a id="thumb1" href="img/chlapecke_obleky/404-238-X47s.jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/chlapecke_obleky/404-238-X47s.jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="135" /></a>
+				<div class="highslide-caption">
+				    svatební model xxx
+				</div>
+				<a id="thumb1" href="img/chlapecke_obleky/oblek1.jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/chlapecke_obleky/oblek1.jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="135" /></a>
+				<div class="highslide-caption">
+				    svatební model xxx
+				</div>
+				<a id="thumb1" href="img/chlapecke_obleky/20110623_22.jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/chlapecke_obleky/20110623_22.jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="135" /></a>
+				<div class="highslide-caption">
+				    svatební model xxx
+				</div>
+        
+        
+        
+        
+      </div>
+      <br/>
+
 	
 		</div> <!-- end obsah-->
   		
