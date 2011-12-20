@@ -75,10 +75,7 @@
 				<div class="highslide-caption">
 				    svatební model xxx
 				</div>
-        
-        
-        
-        
+       
       </div>
       <br/>
 

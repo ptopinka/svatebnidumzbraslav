@@ -55,7 +55,7 @@
 				<img src="img/masle.png"/>
 			</div>
 			<h3>Svatební expo 2011</h3>
-	
+	    <br/>
 	
       <!-- prvni rada -->
   		<div align="center"> 
@@ -63,21 +63,21 @@
   					<img src="img/akce/prgw2011/wedding expo 02_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="99" width="150" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
 
   				<a id="thumb1" href="img/akce/prgw2011/wedding expo 03.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 03_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="99" width="150" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
 
   				<a id="thumb1" href="img/akce/prgw2011/wedding expo 04.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 04_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="99" width="150" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
 
 
@@ -92,25 +92,25 @@
   					<img src="img/akce/prgw2011/wedding expo 06_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="202" width="135" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
   				<a id="thumb1" href="img/akce/prgw2011/wedding expo 07.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 07_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="202" width="135" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
   				<a id="thumb1" href="img/akce/prgw2011/wedding expo 08.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 08_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="202" width="135" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
   				<a id="thumb1" href="img/akce/prgw2011/wedding expo 13.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 13_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="202" width="135" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
           
           
@@ -127,19 +127,19 @@
   					<img src="img/akce/prgw2011/wedding expo 11_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="99" width="150" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
           <a id="thumb1" href="img/akce/prgw2011/wedding expo 12.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 12_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="99" width="150" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
           <a id="thumb1" href="img/akce/prgw2011/wedding expo 21.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 21_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="99" width="150" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
   				
         </div>
@@ -152,13 +152,13 @@
   					<img src="img/akce/prgw2011/wedding expo 16_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="202" width="135" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
   				<a id="thumb1" href="img/akce/prgw2011/wedding expo 17.jpg" class="highslide" onclick="return hs.expand(this)">
   					<img src="img/akce/prgw2011/wedding expo 17_thumb.jpg" alt="Highslide JS"
   						title="Click to enlarge" height="202" width="135" /></a>
   				<div class="highslide-caption">
-  				    svatební model xxx
+  				    Svatební expo 2011
   				</div>
   		
           

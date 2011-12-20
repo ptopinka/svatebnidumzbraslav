@@ -55,6 +55,160 @@
 				<img src="img/masle.png"/>
 			</div>
 	
+	    <br/>
+	    
+	    <div>
+	      <a href="http://www.pointaart.cz"><img width="300px"  src="img/sluzby/kvetiny/pointaart.png"></a>
+	    </div>
+	
+	    <br/>
+	    
+	    <!-- 1 RADA -->
+       <div>
+ 				<a id="thumb1" href="img/sluzby/kvetiny/1118338_720.jpg" class="highslide" onclick="return hs.expand(this)">
+ 					<img src="img/sluzby/kvetiny/1118338_720.jpg" alt="Highslide JS"
+ 						title="Click to enlarge" height="135" width="135" /></a>
+ 				<div class="highslide-caption">
+ 				    Svatební kytice Pointa Art
+ 				</div>
+ 				<a id="thumb1" href="img/sluzby/kvetiny/1279563_720.jpg" class="highslide" onclick="return hs.expand(this)">
+ 					<img src="img/sluzby/kvetiny/1279563_720.jpg" alt="Highslide JS"
+ 						title="Click to enlarge" height="135" width="135" /></a>
+ 				<div class="highslide-caption">
+ 				    Svatební kytice Pointa Art
+ 				</div>
+ 				<a id="thumb1" href="img/sluzby/kvetiny/1358866_720.jpg" class="highslide" onclick="return hs.expand(this)">
+ 					<img src="img/sluzby/kvetiny/1358866_720.jpg" alt="Highslide JS"
+ 						title="Click to enlarge" height="135" width="135" /></a>
+ 				<div class="highslide-caption">
+ 				    Svatební kytice Pointa Art
+ 				</div>
+ 				<a id="thumb1" href="img/sluzby/kvetiny/1365995_720.jpg" class="highslide" onclick="return hs.expand(this)">
+ 					<img src="img/sluzby/kvetiny/1365995_720.jpg" alt="Highslide JS"
+ 						title="Click to enlarge" height="135" width="135" /></a>
+ 				<div class="highslide-caption">
+ 				    Svatební kytice Pointa Art
+ 				</div>
+       </div>
+  
+       <br/>
+	
+	
+ 	    <!-- 2 RADA -->
+        <div>
+  				<a id="thumb1" href="img/sluzby/kvetiny/1390994_720.jpg" class="highslide" onclick="return hs.expand(this)">
+  					<img src="img/sluzby/kvetiny/1390994_720.jpg" alt="Highslide JS"
+  						title="Click to enlarge" height="135" width="135" /></a>
+  				<div class="highslide-caption">
+  				    Svatební kytice Pointa Art
+  				</div>
+  				<a id="thumb1" href="img/sluzby/kvetiny/1399668_720.jpg" class="highslide" onclick="return hs.expand(this)">
+  					<img src="img/sluzby/kvetiny/1399668_720.jpg" alt="Highslide JS"
+  						title="Click to enlarge" height="135" width="135" /></a>
+  				<div class="highslide-caption">
+  				    Svatební kytice Pointa Art
+  				</div>
+  				<a id="thumb1" href="img/sluzby/kvetiny/1424312_720.jpg" class="highslide" onclick="return hs.expand(this)">
+  					<img src="img/sluzby/kvetiny/1424312_720.jpg" alt="Highslide JS"
+  						title="Click to enlarge" height="135" width="135" /></a>
+  				<div class="highslide-caption">
+  				    Svatební kytice Pointa Art
+  				</div>
+  				<a id="thumb1" href="img/sluzby/kvetiny/1718990_720.jpg" class="highslide" onclick="return hs.expand(this)">
+  					<img src="img/sluzby/kvetiny/1718990_720.jpg" alt="Highslide JS"
+  						title="Click to enlarge" height="135" width="135" /></a>
+  				<div class="highslide-caption">
+  				    Svatební kytice Pointa Art
+  				</div>
+        </div>
+
+        <br/>
+
+           <!-- 3 RADA -->
+              <div>
+        				<a id="thumb1" href="img/sluzby/kvetiny/1841643_720.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/sluzby/kvetiny/1841643_720.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="135" width="135" /></a>
+        				<div class="highslide-caption">
+        				    Svatební kytice Pointa Art
+        				</div>
+        				<a id="thumb1" href="img/sluzby/kvetiny/1849615_720.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/sluzby/kvetiny/1849615_720.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="135" width="135" /></a>
+        				<div class="highslide-caption">
+        				    Svatební kytice Pointa Art
+        				</div>
+        				<a id="thumb1" href="img/sluzby/kvetiny/4079727_720.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/sluzby/kvetiny/4079727_720.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="135" width="135" /></a>
+        				<div class="highslide-caption">
+        				    Svatební kytice Pointa Art
+        				</div>
+        				<a id="thumb1" href="img/sluzby/kvetiny/5402417_720.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/sluzby/kvetiny/5402417_720.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="135" width="135" /></a>
+        				<div class="highslide-caption">
+        				    Svatební kytice Pointa Art
+        				</div>
+              </div>
+
+              <br/>
+
+              <!-- 4 RADA -->
+                 <div>
+           				<a id="thumb1" href="img/sluzby/kvetiny/6260647_720.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/sluzby/kvetiny/6260647_720.jpg" alt="Highslide JS"
+           						title="Click to enlarge" height="200" width="135" /></a>
+           				<div class="highslide-caption">
+           				    Svatební kytice Pointa Art
+           				</div>
+           				<a id="thumb1" href="img/sluzby/kvetiny/7692713_720.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/sluzby/kvetiny/7692713_720.jpg" alt="Highslide JS"
+           						title="Click to enlarge" height="200" width="135" /></a>
+           				<div class="highslide-caption">
+           				    Svatební kytice Pointa Art
+           				</div>
+           				<a id="thumb1" href="img/sluzby/kvetiny/7692718_720.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/sluzby/kvetiny/7692718_720.jpg" alt="Highslide JS"
+           						title="Click to enlarge" height="200" width="135" /></a>
+           				<div class="highslide-caption">
+           				    Svatební kytice Pointa Art
+           				</div>
+           				<a id="thumb1" href="img/sluzby/kvetiny/8156198_720.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/sluzby/kvetiny/8156198_720.jpg" alt="Highslide JS"
+           						title="Click to enlarge" height="200" width="135" /></a>
+           				<div class="highslide-caption">
+           				    Svatební kytice Pointa Art
+           				</div>
+                 </div>
+
+                 <br/>
+                        <!-- 5 RADA -->
+                            <div>
+                      				<a id="thumb1" href="img/sluzby/kvetiny/8780294_720.jpg" class="highslide" onclick="return hs.expand(this)">
+                      					<img src="img/sluzby/kvetiny/8780294_720.jpg" alt="Highslide JS"
+                      						title="Click to enlarge" height="200" width="135" /></a>
+                      				<div class="highslide-caption">
+                      				    Svatební kytice Pointa Art
+                      				</div>
+                      				<a id="thumb1" href="img/sluzby/kvetiny/9038089_720.jpg" class="highslide" onclick="return hs.expand(this)">
+                      					<img src="img/sluzby/kvetiny/9038089_720.jpg" alt="Highslide JS"
+                      						title="Click to enlarge" height="200" width="135" /></a>
+                      				<div class="highslide-caption">
+                      				    Svatební kytice Pointa Art
+                      				</div>
+                      				<a id="thumb1" href="img/sluzby/kvetiny/9273087_720.jpg" class="highslide" onclick="return hs.expand(this)">
+                      					<img src="img/sluzby/kvetiny/9273087_720.jpg" alt="Highslide JS"
+                      						title="Click to enlarge" height="200" width="135" /></a>
+                      				<div class="highslide-caption">
+                      				    Svatební kytice Pointa Art
+                      				</div>
+                      				
+                            </div>
+
+                            <br/>
+
+	
 		</div> <!-- end obsah-->
   		
   	
