@@ -74,6 +74,11 @@
 			<p><blockquote>tel.:&nbsp; &nbsp; &nbsp; 257 313 288
 			<br>mobil: &nbsp;&nbsp;&nbsp;731 109 628
 			<p><blockquote>e-mail: &nbsp;&nbsp; info@svatebnidumzbraslav.cz</blockquote> </blockquote></blockquote>
+			
+			
+				<a><img src="img/kontakty.JPG" width="550px"></a> 
+			
+			
 		</div> <!-- end obsah-->
   		
 		  <?php

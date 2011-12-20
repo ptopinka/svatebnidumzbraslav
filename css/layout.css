@@ -46,8 +46,9 @@ body {
 
 		
 
+#1obrazek{height:400px;width:300px;}
 
-
+.popisekfota {position: realtive;padding: 0 0 0 200px;}
 
 .banner {
 	width: 200px;  

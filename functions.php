@@ -101,8 +101,9 @@ function printMenu() {
 					
 		  <li class="fly"><a href="panska.php">Pánská móda</a>
 					<ul>
-						<li><a href="p_svatprodej.php">Prodej</a></li>
-						<li><a href="p_svatpujc.php">Půjčovna</a></li>
+						<li><a href="panska.php">Pánské obleky</a></li>
+									<!--<li><a href="p_svatprodej.php">Prodej</a></li>
+									<li><a href="p_svatpujc.php">Půjčovna</a></li>         V nove neni-->
 						<li><a href="p_business.php">Business móda</a></li>
 						
 					</ul>
