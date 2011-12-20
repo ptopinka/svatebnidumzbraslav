@@ -55,6 +55,11 @@
 				<img src="img/masle.png"/>
 			</div>
 	
+	
+	
+	
+	
+	
 		</div> <!-- end obsah-->
 			  <?php
 				printRightBanner();
