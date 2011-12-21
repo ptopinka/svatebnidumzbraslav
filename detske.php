@@ -61,19 +61,19 @@
 					<img src="img/chlapecke_obleky/404-238-X47s.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
-				    svatební model xxx
+				    Chlapecký oblek
 				</div>
 				<a id="thumb1" href="img/chlapecke_obleky/oblek1.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/chlapecke_obleky/oblek1.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
-				    svatební model xxx
+				    Chlapecký oblek
 				</div>
-				<a id="thumb1" href="img/chlapecke_obleky/20110623_22.jpg" class="highslide" onclick="return hs.expand(this)">
-					<img src="img/chlapecke_obleky/20110623_22.jpg" alt="Highslide JS"
+				<a id="thumb1" href="img/chlapecke_obleky/20110623_22.JPG" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/chlapecke_obleky/20110623_22.JPG" alt="Highslide JS"
 						title="Click to enlarge" height="202" width="135" /></a>
 				<div class="highslide-caption">
-				    svatební model xxx
+				    Chlapecký oblek
 				</div>
        
       </div>
