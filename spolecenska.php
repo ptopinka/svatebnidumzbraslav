@@ -580,7 +580,7 @@
 			
 			</div>
 			
-	<!-- 16 rada -->		
+			
 		<div>
 				<a id="thumb1" href="img/sp_saty/ivamoda/64.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/64_thumb.jpg" alt="Highslide JS"

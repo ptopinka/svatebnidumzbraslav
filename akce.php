@@ -54,7 +54,18 @@
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
-			<h3>Svatební expo 2011</h3>
+		  <div class="titulek">Vánoční akce 2011</div>
+		  <div align="center">
+		    <img src="img/bannery/vanoce_2011_letak.jpg"/>
+		  </div>
+		  
+			
+			
+			
+			
+			<br/>
+			
+			<div class="titulek">Svatební expo 2011</div>
 	    <br/>
 	
       <!-- prvni rada -->

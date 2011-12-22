@@ -156,10 +156,16 @@ function printRightBanner() {
 
   print <<<END
     <div class="banner">
-   		<a>
-   						<img src="img/akce.JPG"
-   								 height="229" width="200" />
+   		<a href="akce.php">
+   						<img src="img/bannery/vanoce_2011_banner.jpg"
+   								 height="200" width="200" />
        </a>
+       <br/><br/>
+    		<a>
+    						<img src="img/bannery/svatebni_festival_2012.png"
+    								 height="200" width="200" />
+        </a>
+
              <!--Svatební festival v Průhonicích je skvělá akce kde si můžete prohlédnout vybrané kolekce našich předních návrhářů.-->
      </div>
     <div class="banner" style="text-align:right;">
