@@ -65,29 +65,29 @@
 
         <!-- prvni rada -->
     		<div> 
-    				<a id="thumb1" href="img/bolerka/10052.jpg" class="highslide" onclick="return hs.expand(this)">
-    					<img src="img/bolerka/10052_thumb.jpg" alt="Highslide JS"
+    				<a id="thumb1" href="img/svatebni_moda/bolerka/10052.jpg" class="highslide" onclick="return hs.expand(this)">
+    					<img src="img/svatebni_moda/bolerka/10052_thumb.jpg" alt="Highslide JS"
     						title="Click to enlarge" height="202" width="135" /></a>
     				<div class="highslide-caption">
     				    Bolerka
     				</div>
 
-    				<a id="thumb1" href="img/bolerka/10445  AB-121.jpg" class="highslide" onclick="return hs.expand(this)">
-    					<img src="img/bolerka/10445  AB-121_thumb.jpg" alt="Highslide JS"
+    				<a id="thumb1" href="img/svatebni_moda/bolerka/10445  AB-121.jpg" class="highslide" onclick="return hs.expand(this)">
+    					<img src="img/svatebni_moda/bolerka/10445  AB-121_thumb.jpg" alt="Highslide JS"
     						title="Click to enlarge" height="202" width="135" /></a>
     				<div class="highslide-caption">
     				    Bolerka
     				</div>
 
-    				<a id="thumb1" href="img/bolerka/AB-118.jpg" class="highslide" onclick="return hs.expand(this)">
-    					<img src="img/bolerka/AB-118_thumb.jpg" alt="Highslide JS"
+    				<a id="thumb1" href="img/svatebni_moda/bolerka/AB-118.jpg" class="highslide" onclick="return hs.expand(this)">
+    					<img src="img/svatebni_moda/bolerka/AB-118_thumb.jpg" alt="Highslide JS"
     						title="Click to enlarge" height="202" width="135" /></a>
     				<div class="highslide-caption">
     				    Bolerka
     				</div>
 
-    				<a id="thumb1" href="img/bolerka/E42_m.jpg" class="highslide" onclick="return hs.expand(this)">
-    					<img src="img/bolerka/E42_m_thumb.jpg" alt="Highslide JS"
+    				<a id="thumb1" href="img/svatebni_moda/bolerka/E42_m.jpg" class="highslide" onclick="return hs.expand(this)">
+    					<img src="img/svatebni_moda/bolerka/E42_m_thumb.jpg" alt="Highslide JS"
     						title="Click to enlarge" height="202" width="135" /></a>
     				<div class="highslide-caption">
     				    Bolerka
@@ -95,6 +95,51 @@
 
 
     			</div>
+          <br/>
+
+
+          <h3 align="left">Gabor  boty</h3>
+          <div>
+    	       
+
+            25.180.60 bílé podpatek  45 cm možno objednat ve velikostech 2 ,5 – 9,5 <br/>
+            25.180.60 champagner  podpatek  45 cm možno objednat ve velikostech 2 ,5 – 9,5 <br/>
+            26.221.81 perleťové podpatek  45 cm možno objednat ve velikostech 2 ,5 – 9,5 <br/>
+            25.460.60 perleťové podpatek  60 cm možno objednat ve velikostech 2 ,5 – 9,5 <br/>
+           </div>
+
+          <br/>
+
+          <!-- boty gabor -->
+      		<div> 
+      				<a id="thumb1" href="img/svatebni_moda/boty_gabor/25.180.60+64.jpg" class="highslide" onclick="return hs.expand(this)">
+      					<img src="img/svatebni_moda/boty_gabor/25.180.60+64.jpg" alt="Highslide JS"
+      						title="Click to enlarge" height="135" width="202" /></a>
+      				<div class="highslide-caption">
+      				  25.180.60 bílé podpatek  45 cm možno objednat ve velikostech 2 ,5 – 9,5
+                25.180.60 champagner  podpatek  45 cm možno objednat ve velikostech 2 ,5 – 9,5
+                  
+      				</div>
+
+      				<a id="thumb1" href="img/svatebni_moda/boty_gabor/25.460.60.jpg" class="highslide" onclick="return hs.expand(this)">
+      					<img src="img/svatebni_moda/boty_gabor/25.460.60.jpg" alt="Highslide JS"
+      						title="Click to enlarge" height="135" width="202" /></a>
+      				<div class="highslide-caption">
+      				  25.460.60 perleťové podpatek  60 cm možno objednat ve velikostech 2 ,5 – 9,5 
+      				</div>
+
+      				<a id="thumb1" href="img/svatebni_moda/boty_gabor/26.221.81.jpg" class="highslide" onclick="return hs.expand(this)">
+      					<img src="img/svatebni_moda/boty_gabor/26.221.81.jpg" alt="Highslide JS"
+      						title="Click to enlarge" height="135" width="135" /></a>
+      				<div class="highslide-caption">
+      				  26.221.81 perleťové podpatek  45 cm možno objednat ve velikostech 2 ,5 – 9,5
+      				</div>
+
+
+
+      			</div>
+
+
 
 
 		</div> <!-- end obsah-->
