@@ -96,6 +96,7 @@
 
     			</div>
           <br/>
+          <br/><br/><br/>
 
 
           <h3 align="left">Gabor  boty</h3>
@@ -139,8 +140,83 @@
 
       			</div>
 
+            <br/><br/><br/>
 
 
+            <h3 align="left">Závoje</h3>
+
+            <br/>
+
+            <!-- prvni rada -->
+        		<div> 
+        				<a id="thumb1" href="img/svatebni_moda/zavoje/3_t3_2.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/svatebni_moda/zavoje/3_t3_2_thumb.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="202" width="135" /></a>
+        				<div class="highslide-caption">
+        				    zavoje
+        				</div>
+
+        				<a id="thumb1" href="img/svatebni_moda/zavoje/emm100cm.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/svatebni_moda/zavoje/emm100cm_thumb.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="202" width="135" /></a>
+        				<div class="highslide-caption">
+        				    zavoje
+        				</div>
+
+        				<a id="thumb1" href="img/svatebni_moda/zavoje/emm120cm.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/svatebni_moda/zavoje/emm120cm_thumb.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="202" width="135" /></a>
+        				<div class="highslide-caption">
+        				    zavoje
+        				</div>
+
+        				<a id="thumb1" href="img/svatebni_moda/zavoje/emm150cm.jpg" class="highslide" onclick="return hs.expand(this)">
+        					<img src="img/svatebni_moda/zavoje/emm150cm_thumb.jpg" alt="Highslide JS"
+        						title="Click to enlarge" height="202" width="135" /></a>
+        				<div class="highslide-caption">
+        				    zavoje
+        				</div>
+
+
+        			</div>
+              <br/>
+
+              <!-- prvni rada -->
+          		<div align="center"> 
+          				<a id="thumb1" href="img/svatebni_moda/zavoje/emm200cm.jpg" class="highslide" onclick="return hs.expand(this)">
+          					<img src="img/svatebni_moda/zavoje/emm200cm_thumb.jpg" alt="Highslide JS"
+          						title="Click to enlarge" height="202" width="135" /></a>
+          				<div class="highslide-caption">
+          				    zavoje
+          				</div>
+
+          				<a id="thumb1" href="img/svatebni_moda/zavoje/emmlang.jpg" class="highslide" onclick="return hs.expand(this)">
+          					<img src="img/svatebni_moda/zavoje/emmlang_thumb.jpg" alt="Highslide JS"
+          						title="Click to enlarge" height="202" width="135" /></a>
+          				<div class="highslide-caption">
+          				    zavoje
+          				</div>
+
+          				<a id="thumb1" href="img/svatebni_moda/zavoje/gross.jpg" class="highslide" onclick="return hs.expand(this)">
+          					<img src="img/svatebni_moda/zavoje/gross.jpg" alt="Highslide JS"
+          						title="Click to enlarge" height="202" width="135" /></a>
+          				<div class="highslide-caption">
+          				    zavoje
+          				</div>
+
+        
+
+
+          			</div>
+          			<div align="center">
+                <br/>
+                  				<a id="thumb1" href="img/svatebni_moda/zavoje/zavoj.jpg" class="highslide" onclick="return hs.expand(this)">
+                  					<img src="img/svatebni_moda/zavoje/zavoj_thumb.jpg" alt="Highslide JS"
+                  						title="Click to enlarge" height="135" width="202" /></a>
+                  				<div class="highslide-caption">
+                  				    zavoje
+                  				</div>
+                  </div>
 
 		</div> <!-- end obsah-->
   		
