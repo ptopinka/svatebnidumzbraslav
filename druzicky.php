@@ -61,25 +61,25 @@
       					<img src="img/druzicky/20110617_01_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="202" width="135" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
       				<a id="thumb1" href="img/druzicky/20110617_02.jpg" class="highslide" onclick="return hs.expand(this)">
       					<img src="img/druzicky/20110617_02_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="202" width="135" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
       				<a id="thumb1" href="img/druzicky/20110623_02.jpg" class="highslide" onclick="return hs.expand(this)">
       					<img src="img/druzicky/20110623_02_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="202" width="135" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
       				<a id="thumb1" href="img/druzicky/20110623_04.jpg" class="highslide" onclick="return hs.expand(this)">
       					<img src="img/druzicky/20110623_04_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="202" width="135" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
 
 
@@ -95,19 +95,19 @@
       					<img src="img/druzicky/20110623_09_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="202" width="135" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
       				<a id="thumb1" href="img/druzicky/20110623_25.jpg" class="highslide" onclick="return hs.expand(this)">
       					<img src="img/druzicky/20110623_25_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="135" width="202" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
       				<a id="thumb1" href="img/druzicky/20110623_27.jpg" class="highslide" onclick="return hs.expand(this)">
       					<img src="img/druzicky/20110623_27_thumb.jpg" alt="Highslide JS"
       						title="Click to enlarge" height="202" width="135" /></a>
       				<div class="highslide-caption">
-      				   Šaty pro družicky
+      				    Šaty pro družicky
       				</div>
       			
 

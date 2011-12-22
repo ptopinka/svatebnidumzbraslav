@@ -311,28 +311,28 @@
 
           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie033_001.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/curlie033_001.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
 
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie046_001.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/curlie046_001.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
 
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie020_000.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/curlie020_000.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
 
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie033_000.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/curlie033_000.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
@@ -346,14 +346,14 @@
  
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/316.563.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/316.563.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
 
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/317.565.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/317.565.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
@@ -361,14 +361,14 @@
 
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/vrtulky3.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/vrtulky3.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
 
            				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/vrtulky4.jpg" class="highslide" onclick="return hs.expand(this)">
            					<img src="img/svatebni_moda/bizuterie/curlie/vrtulky4.jpg" alt="Highslide JS"
-         						title="Click to enlarge" height="120" width="120" /></a>
+         						title="Click to enlarge" height="130" width="130" /></a>
            				<div class="highslide-caption">
            				    bižuterie
            				</div>
@@ -392,6 +392,50 @@
            				    bižuterie
            				</div>
                 </div>
+                
+                
+                <br/>
+
+                <div class="titulek">Poštářky</div>
+
+                                <br/>
+
+                
+                
+                           <!-- 1 rada -->
+                         		<div align="center"> 
+
+         				<a id="thumb1" href="img/svatebni_moda/polstarky/Ringkissen-C010.jpg" class="highslide" onclick="return hs.expand(this)">
+         					<img src="img/svatebni_moda/polstarky/Ringkissen-C010.jpg" alt="Highslide JS"
+       						title="Click to enlarge" height="130" width="130" /></a>
+         				<div class="highslide-caption">
+         				    Poštářek
+         				</div>
+
+         				<a id="thumb1" href="img/svatebni_moda/polstarky/ringkissenweiss1.jpg" class="highslide" onclick="return hs.expand(this)">
+         					<img src="img/svatebni_moda/polstarky/ringkissenweiss1.jpg" alt="Highslide JS"
+       						title="Click to enlarge" height="130" width="130" /></a>
+         				<div class="highslide-caption">
+         				    Poštářek
+         				</div>
+
+         				<a id="thumb1" href="img/svatebni_moda/polstarky/satinringkissencreme2.jpg" class="highslide" onclick="return hs.expand(this)">
+         					<img src="img/svatebni_moda/polstarky/satinringkissencreme2.jpg" alt="Highslide JS"
+       						title="Click to enlarge" height="130" width="130" /></a>
+         				<div class="highslide-caption">
+         				    Poštářek
+         				</div>
+
+         				<a id="thumb1" href="img/svatebni_moda/polstarky/satinringkissenweinrot2.jpg" class="highslide" onclick="return hs.expand(this)">
+         					<img src="img/svatebni_moda/polstarky/satinringkissenweinrot2.jpg" alt="Highslide JS"
+       						title="Click to enlarge" height="130" width="130" /></a>
+         				<div class="highslide-caption">
+         				    Poštářek
+         				</div>
+
+
+                       			</div>
+                            <br/>                
 
 		</div> <!-- end obsah-->
   		
