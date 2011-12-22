@@ -56,9 +56,7 @@
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
-      <div>
-        <img src="img/kontakt/prodejna.JPG">
-      </div>
+      
         
 			<p><blockquote>Zbraslavské nám. 463
 			<br>156 00 Praha 5 - Zbraslav
@@ -75,8 +73,11 @@
 			<br>mobil: &nbsp;&nbsp;&nbsp;731 109 628
 			<p><blockquote>e-mail: &nbsp;&nbsp; info@svatebnidumzbraslav.cz</blockquote> </blockquote></blockquote>
 			
+			<div>
+				<img src="img/kontakt/prodejna.JPG">
+			</div>
 			
-				<a><img src="img/kontakty.JPG" width="550px"></a> 
+				
 			
 			
 		</div> <!-- end obsah-->
