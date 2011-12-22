@@ -54,16 +54,24 @@
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
+			<br/><br/>
 		  <div class="titulek">Vánoční akce 2011</div>
+		  <br/>
 		  <div align="center">
 		    <img src="img/bannery/vanoce_2011_letak.jpg"/>
 		  </div>
+      <br/><br/>
 		  
+		  <div class="titulek">Svatební festival 2012</div>
+		  <br/>
+		  <div align="center">
+		    <img src="img/bannery/svatebni_festival_2012.png"/>
+		  </div>
 			
 			
 			
 			
-			<br/>
+			<br/><br/>
 			
 			<div class="titulek">Svatební expo 2011</div>
 	    <br/>
