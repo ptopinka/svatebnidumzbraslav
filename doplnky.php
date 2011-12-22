@@ -55,7 +55,7 @@
 				<img src="img/masle.png"/>
 			</div>
       
-        <h3 align="left">Bolerka</h3>
+        <div class="titulek">Bolerka</div>
         <div>
   	      Velkým trendem pro svatební šaty jsou bolerka. Módní návrháři spojili něco moderního s praktickým využitím.
   	       Právě pro korzetové šaty jsou tyto bolerka hezkým optickým doplněním a chrání současně nevěstu před zimou.
@@ -99,7 +99,7 @@
           <br/><br/><br/>
 
 
-          <h3 align="left">Gabor  boty</h3>
+          <div class="titulek">Gabor  boty</div>
           <div>
     	       
 
@@ -143,7 +143,7 @@
             <br/><br/><br/>
 
 
-            <h3 align="left">Závoje</h3>
+            <div class="titulek">Závoje</div>
 
             <br/>
 
@@ -181,7 +181,7 @@
         			</div>
               <br/>
 
-              <!-- prvni rada -->
+              <!-- 2 rada -->
           		<div align="center"> 
           				<a id="thumb1" href="img/svatebni_moda/zavoje/emm200cm.jpg" class="highslide" onclick="return hs.expand(this)">
           					<img src="img/svatebni_moda/zavoje/emm200cm_thumb.jpg" alt="Highslide JS"
@@ -217,6 +217,181 @@
                   				    zavoje
                   				</div>
                   </div>
+                  
+                  
+                  <br/><br/><br/>
+                  
+                  
+                  
+                    <div class="titulek">Rukavičky</div>
+
+                  <br/>
+
+                  <!-- prvni rada -->
+              		<div align="center"> 
+            
+            
+            				<a id="thumb1" href="img/svatebni_moda/rukavicky/0105.jpg" class="highslide" onclick="return hs.expand(this)">
+            					<img src="img/svatebni_moda/rukavicky/0105.jpg" alt="Highslide JS"
+            						title="Click to enlarge" height="202" width="135" /></a>
+            				<div class="highslide-caption">
+            				    rukavičky
+            				</div>
+            
+              				<a id="thumb1" href="img/svatebni_moda/rukavicky/1-7020.jpg" class="highslide" onclick="return hs.expand(this)">
+              					<img src="img/svatebni_moda/rukavicky/1-7020.jpg" alt="Highslide JS"
+              						title="Click to enlarge" height="202" width="135" /></a>
+              				<div class="highslide-caption">
+              				    rukavičky
+              				</div>
+
+
+              			</div>
+                    <br/>
+
+                
+                  <div class="titulek">Bižuterie</div>
+
+                <br/><br/>
+
+
+                <!-- 1 rada -->
+             		<div align="center"> 
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/022.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/022.jpg" alt="Highslide JS"
+           						title="Click to enlarge" height="120" width="190" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/392_5806-0023n.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/392_5806-0023n.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="190" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/1053_5801-0166-s005802-0106-s005806-0032-s00n.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/1053_5801-0166-s005802-0106-s005806-0032-s00n.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="190" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+           			</div>
+               
+                <br/>
+                <!-- 2 rada -->
+             		<div align="center"> 
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/diadem2.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/diadem2.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="190" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/korunka1.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/korunka1.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="190" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/korunka2.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/korunka2.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="190" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+           			</div>
+
+
+                <br/>
+                <!-- 3 rada -->
+             		<div align="center"> 
+
+          				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie033_001.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/curlie033_001.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie046_001.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/curlie046_001.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie020_000.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/curlie020_000.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/curlie033_000.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/curlie033_000.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           			</div>
+                <br/>
+                
+                
+                <!-- 4 rada -->
+             		<div align="center"> 
+ 
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/316.563.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/316.563.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/317.565.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/317.565.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/vrtulky3.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/vrtulky3.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/vrtulky4.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/vrtulky4.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="120" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           			</div>
+                <br/>
+                <!-- 5 rada -->
+             		<div align="center"> 
+ 
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/vrtulky.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/vrtulky.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="220" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+
+           				<a id="thumb1" href="img/svatebni_moda/bizuterie/curlie/vrtulky2.jpg" class="highslide" onclick="return hs.expand(this)">
+           					<img src="img/svatebni_moda/bizuterie/curlie/vrtulky2.jpg" alt="Highslide JS"
+         						title="Click to enlarge" height="120" width="220" /></a>
+           				<div class="highslide-caption">
+           				    zavoje
+           				</div>
+                </div>
 
 		</div> <!-- end obsah-->
   		
