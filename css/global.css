@@ -24,6 +24,10 @@ h2{text-align: center;}
 	padding: 20px 20px 10px 0;
 }
 
+.contactpict {
+	border:0;
+}
+
 .contacthead {
 	font-family: Serif;
 	font-size: 12px;

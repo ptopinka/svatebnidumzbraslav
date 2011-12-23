@@ -58,6 +58,10 @@ body {
 	text-align: justify;
 	height:100%;
 	}
+	
+.banner img {
+	border:0;
+}	
 
 #content { 
 	position: c;
@@ -243,4 +247,6 @@ visibility:visible; left:-30px; top:14px; lef\t:-31px; to\p:15px;
 #header, #footer {
 	background: white;
 }
+
+
 

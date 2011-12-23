@@ -34,7 +34,7 @@ function printHeader() {
               (dle tel. objednávek)
               </div> --> 
 			  
-  			  <a  href="kontakt.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/kontakt.gif"></a> 
+  			  <a  href="kontakt.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img class="contactpict" src="img/kontakt.gif"></a> 
               
             
           </div>
