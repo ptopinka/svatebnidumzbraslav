@@ -80,8 +80,6 @@ function printMenu() {
 							<li><a href="sp_bolerka.php">Bolérka</a></li>
 							<li><a href="sp_boty.php">Společenská obuv</a></li>
 							<li><a href="sp_kabelky.php">Kabelky</a></li>
-							<li><a href="sp_pradloSELMARK.php">prádlo SELMARK</a></li>
-							<li><a href="sp_fcniJANIRA.php">prádlo JANIRA</a></li>
 							<li><a href="sp_kosmetikaARTDECO.php">Kosmetika</a></li>
 							<li><a href="sp_puncochy.php">Punčochové zboží</a></li>
 							<li><a href="sp_rukavicky.php">Rukavičky</a></li>
@@ -107,19 +105,22 @@ function printMenu() {
 						<li><a href="p_business.php">Business móda</a></li>
 						
 					</ul>
+				
 		  </li></br>
+		  <li><a href="sp_pradloSELMARK.php">prádlo SELMARK</a></li>
+		  <li><a href="sp_fcniJANIRA.php">prádlo JANIRA</a></li>
 		  <li><a href="detske.php">Chlapecké obleky</a></li>
 		  <li><a href="druzicky.php">Šaty pro družičky</a></li>
 		  <li class="fly"><a href="sluzby.php">Služby</a>
 					<ul>
-						<li><a href="krejcovstvi.php">Zakázové krejčovství</a></li>
+						<li><a href="krejcovstvi.php">Krejčovství</a></li>
 						<li><a href="cistirna.php">Čistírna košil</a></li>
 						<li><a href="sl_vizaz.php">Vizážistka</a></li>
 						<li><a href="sl_kader.php">Kadeřnice</a></li>
 						<li><a href="sl_foto.php">Fotograf</a></li>
 						<li><a href="sl_kvet.php">Květiny</a></li>
-						<li><a href="sl_oznam.php">Svatební oznámení</a></li>
-						<li><a href="sl_tabule.php">Výzdoba sv. tabule</a></li>
+						<li><a href="sl_oznam.php">Oznámení</a></li>
+						<li><a href="sl_tabule.php">Výzdoba tabule</a></li>
 						<li><a href="sl_cukrarna.php">Cukrárna</a></li>
 						<li><a href="sl_restaurace.php">Restaurace</a></li>
 					</ul></li>

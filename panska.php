@@ -66,7 +66,7 @@
 
 				  </div>
 				  -->
-			<div>  
+			<div style="padding: 30px 0 0 0">  
 				<a id="thumb1" href="img/panska/mame/SandroLive3.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/panska/mame/SandroLive1.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="309" width="180" /></a>

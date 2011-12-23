@@ -53,7 +53,15 @@
 			<div class="titulek">Fukční prádlo JANIRA</div>
 			<div class="masle">
 				<img src="img/masle.png"/>
-			</div>
+			</div><p>MANENT CASANOVAS vyrábí spodní prádlo a punčochové zboží španělské značky JANIRA již 50. let.
+JANIRA dbá na maximální pohodlí, zpracování a také výběr prvotřídních materiálů.
+Nyní je nejoblíbenější řadou Secrets – opravdu skutečná revoluce v dámském spodním prádle, která
+v jediném kuse skrývá pohodlí kalhotek a důmyslnost tang. Nová série kalhotek bez lemů z funkčního materiálu se nerýsuje pod ošacením.
+Kolekce zahrnuje několik různých variant. Novinkou je také „Silueta“ – tedy vysoké stahovací kalhotky korzetového typu napomohou k perfektní siluetě a redukují až o jednu velikost.<br/>
+<a href="http://www.janira.es">www.janira.es</a></p> <a class="noborder" href="http://www.janira.es"><img style="padding: 0px;" src="img/janira/janira.jpg"align="right"/></a>
+<a class="noborder"><img src="img/janira/1.jpg"align="left"/></a>
+<a class="noborder"><img src="img/janira/2.jpg"align="left"/></a>
+
 	
 		</div> <!-- end obsah-->
 			  <?php

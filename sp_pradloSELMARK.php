@@ -54,9 +54,64 @@
 			<div class="masle">
 				<img src="img/masle.png"/>
 			</div>
+			<p>Firma SELMARK se formuje již v sedmdesátých letech jako malá krejčovská dílna ve španělském městě Vigo.
+V průběhu osmdesátých let se věnuje aplikaci nových technologií, specializuje se na bezešvé vyztužené košíčky ve větších velikostech.
+V devadesátých letech je posílen export, a prádlo značky Selmark se vyváží do více než 30 zemí světa.
+Úspěch tohoto prádla je hlavně ve skloubení pohodlí (perfektní střih, ale i velmi pečlivý výběr materiálu), atraktivního designu s důrazem na kvalitu a častou inovaci.
+Dvakrát ročně jsou představeny nové kolekce – bohaté na různorodost střihů a také na barevnou škálu. 
+Prádlo firmy Selmark nabízíme jak pro nevěsty tak i ve společenské sekci.<br/><a class="noborder" href="http://www.selmark.es"><img style="padding: 15px;" src="img/selmark/selmark.jpg"align="right"/></a>
+<a href="http://www.selmark.es">www.selmark.es</a></p>
+		<br/><br/><br/>
+		<div align="center">
+				<a id="thumb1" href="img/Selmark/sp (1).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (1).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="150" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+
+				<a id="thumb1" href="img/Selmark/sp (3).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (3).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="150" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+				
+				<a id="thumb1" href="img/Selmark/sp (4).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (4).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="150" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+		</div>
 	
 	
+		<div align="center">
+				<a id="thumb1" href="img/Selmark/sp (2).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (2).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="150" width="202" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+
+				<a id="thumb1" href="img/Selmark/sp (7).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (7).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="150" width="202" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+			
+		</div>
 	
+	<div align="center">
+				<a id="thumb1" href="img/Selmark/sp (5).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (5).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="150" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+
+				<a id="thumb1" href="img/Selmark/sp (6).jpg" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/Selmark/sp (6).jpg" alt="Highslide JS"
+						title="Click to enlarge" height="202" width="150" /></a>
+				<div class="highslide-caption">
+spodní prádlo Selmark				</div>
+			
+		</div>
 	
 	
 	
