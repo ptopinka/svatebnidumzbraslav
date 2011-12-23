@@ -95,8 +95,11 @@
 
 
     			</div>
+
           <br/>
           <br/><br/><br/>
+
+    		
 
 
           <div class="titulek">Gabor  boty</div>
@@ -436,6 +439,7 @@
 
                        			</div>
                             <br/>                
+
 
 		</div> <!-- end obsah-->
   		

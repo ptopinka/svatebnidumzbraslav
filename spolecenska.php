@@ -51,7 +51,7 @@
 	<div id="content">
 	
     <div class="obsah">  <!-- obsah je levy sirsi sloupec contentu-->
-				<div class="titulek">Společenské šaty</div>
+				<div class="titulek">Společenské šaty</br>IVAMODA</div>
 				<div class="masle">
 					<img src="img/masle.png"/>
 				</div>
