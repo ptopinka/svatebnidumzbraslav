@@ -107,8 +107,12 @@ function printMenu() {
 					</ul>
 				
 		  </li></br>
-		  <li><a href="sp_pradloSELMARK.php">prádlo SELMARK</a></li>
-		  <li><a href="sp_fcniJANIRA.php">prádlo JANIRA</a></li>
+		  <li class="fly"><a href="#">Spodní prádlo</a>
+					<ul>
+						<li><a href="sp_pradloSELMARK.php">SELMARK</a></li>
+						<li><a href="sp_fcniJANIRA.php">JANIRA</a></li>
+					</ul>
+			</li>
 		  <li><a href="detske.php">Chlapecké obleky</a></li>
 		  <li><a href="druzicky.php">Šaty pro družičky</a></li>
 		  <li class="fly"><a href="sluzby.php">Služby</a>
