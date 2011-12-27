@@ -62,6 +62,7 @@
 			  Zbraslavské nám. 463<br/>
 		    156 00 Praha 5 - Zbraslav
 		  </div>
+		  <br/>
 			<div align="center" >
 			<table width="250px">
 			  <tr><td align="center">tel.: 257 313 288 </td></tr>
