@@ -51,6 +51,28 @@
 	<div id="content">
 	
     <div class="obsah">  <!-- obsah je levy sirsi sloupec contentu-->
+				
+				<div class="titulek">Společenská móda</div>
+				<div class="masle">
+					<img src="img/masle.png"/>
+				</div>			
+					<div align="center">
+					<table>
+					<tr>
+						<td ><a  href="sp_kokt.php" title="Koktejlové šaty"><img  height="300" src="img/sp_saty/koktejlky/kokt (1).jpg" align="left"/></a></td> 
+				        <td>&nbsp;</td>
+						<td><a  href="sp_vecerni.php" title="Večerní šaty"><img height="300" src="img/sp_saty/vecerni/vecer (2).jpg"align="left"/></a></td>
+					</tr> 
+				    <tr>
+						<td align="center">Koktejlky</td>
+				        <td>&nbsp;</td>
+
+						<td align="center">Večerní šaty</td>
+						
+					</tr>
+					</table>
+					</div>
+				<!-- GALERIE 
 				<div class="titulek">Společenské šaty</br>IVAMODA</div>
 				<div class="masle">
 					<img src="img/masle.png"/>
@@ -58,7 +80,7 @@
 
 
 
-    <!-- prvni rada -->
+    
 		<div> 
 				<a id="thumb1" href="img/sp_saty/ivamoda/01.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/01_thumb.jpg" alt="Highslide JS"
@@ -92,11 +114,8 @@
 			
 			</div>
 
-  <!--  druha rada -->
+  
 		  <div> 
-
-
-
 				<a id="thumb1" href="img/sp_saty/ivamoda/05.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/05_thumb.jpg" alt="Highslide JS"
 					title="Click to enlarge" height="202" width="135" /></a>
@@ -104,7 +123,6 @@
 				    svatební model xxx
 				</div>
  
-
 				<a id="thumb1" href="img/sp_saty/ivamoda/06.jpg" class="highslide" onclick="return hs.expand(this)">
 					<img src="img/sp_saty/ivamoda/th/06_thumb.jpg" alt="Highslide JS"
 						title="Click to enlarge" height="202" width="135" /></a>
@@ -127,7 +145,7 @@
 				</div>
 
 			</div>
-  <!--  3 rada -->
+ 
 		  <div> 
 
 
@@ -162,7 +180,7 @@
 
   			</div>
 
-  <!--  4 rada -->
+  
   		  <div> 
 
   					<a id="thumb1" href="img/sp_saty/ivamoda/13.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -193,7 +211,7 @@
 				    svatební model xxx
 				</div>
       	</div>
-    <!--  5 rada -->
+    
     	  <div> 
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/17.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -225,7 +243,7 @@
 				</div>
 
       	</div>
-   <!--  6 rada -->
+  
       	<div> 
 
 				<a id="thumb1" href="img/sp_saty/ivamoda/21.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -258,7 +276,7 @@
 
   			</div>
 
- <!--  7 rada -->
+ 
     		<div> 
 
   				<a id="thumb1" href="img/sp_saty/ivamoda/25.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -290,8 +308,7 @@
 				</div>
    			</div>
 			
- <!--  8 rada -->
-    		<div> 
+     		<div> 
 
   				<a id="thumb1" href="img/sp_saty/ivamoda/29.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/29_thumb.jpg" alt="Highslide JS"
@@ -317,7 +334,7 @@
 				
    			</div>
 			
- <!--  9 rada -->
+ 
     		<div> 
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/32.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -350,7 +367,7 @@
 				</div>
 			</div>	
 				
-	<!--  10 rada -->
+
     		<div>			
 				
 				<a id="thumb1" href="img/sp_saty/ivamoda/36.jpg" class="highslide" onclick="return hs.expand(this)">
@@ -383,7 +400,7 @@
 				</div>
 			</div>
 			
-	<!-- 11 rada -->		
+			
 		<div>	
 				<a id="thumb1" href="img/sp_saty/ivamoda/40.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/40_thumb.jpg" alt="Highslide JS"
@@ -415,7 +432,7 @@
 			</div>
 			
 			
-	<!-- 12 rada -->		
+			
 		<div>	
 				<a id="thumb1" href="img/sp_saty/ivamoda/44.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/44_thumb.jpg" alt="Highslide JS"
@@ -450,7 +467,7 @@
 			
 			
 			
-	<!-- 13 rada -->		
+			
 		<div>
 				<a id="thumb1" href="img/sp_saty/ivamoda/48.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/48_thumb.jpg" alt="Highslide JS"
@@ -483,7 +500,7 @@
 			</div>
 
 
-	<!-- 14 rada -->		
+			
 		<div>
 				<a id="thumb1" href="img/sp_saty/ivamoda/52.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/52_thumb.jpg" alt="Highslide JS"
@@ -516,7 +533,7 @@
 			</div>
 
 
-	<!-- 15 rada -->		
+			
 		<div>
 				<a id="thumb1" href="img/sp_saty/ivamoda/56.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/56_thumb.jpg" alt="Highslide JS"
@@ -548,7 +565,7 @@
 			
 			</div>
 
-	<!-- 16 rada -->		
+			
 		<div>
 				<a id="thumb1" href="img/sp_saty/ivamoda/60.jpg" class="highslide" onclick="return hs.expand(this)">
 						<img src="img/sp_saty/ivamoda/th/60_thumb.jpg" alt="Highslide JS"
@@ -612,7 +629,7 @@
 			
 			</div>
 			
-			
+			-->
 			
     </div> <!-- end of div obsah -->
 

@@ -83,7 +83,7 @@ function printMenu() {
 							<li><a href="sp_kosmetikaARTDECO.php">Kosmetika</a></li>
 							<li><a href="sp_puncochy.php">Punčochové zboží</a></li>
 							<li><a href="sp_rukavicky.php">Rukavičky</a></li>
-							<li><a href="sp_spolecenska3XL.php">Spol. móda XXXL</a></li>
+							<li><a href="sp_3XL.php">Spol. móda XXXL</a></li>
 
 							
 							

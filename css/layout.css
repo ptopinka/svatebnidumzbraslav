@@ -41,7 +41,7 @@ body {
 	width: 190px;
 }
 .noborder img {										/*letak*/
-	border: none;
+	border: none;width: 190px;
 }
 
 		
