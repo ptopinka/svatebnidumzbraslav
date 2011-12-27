@@ -77,6 +77,12 @@
 				<div id="obsahmasle">
 					<img src="img/masle_bottom.png">
 				</div>
+				
+				<p>Šaty AGNES jsou romantického vzhledu, které se vyznačují  elegancí a exklusivitou. Jsou vyšity  ručně zdobenou výšivkou z perel a Swarovski korálků. Materiály se střídají od klasického těžkého saténu, po lehkou organzu. Nechybí také oblíbené široké mnohovrstvé tylové sukně. Šaty nabízíme v bílé barvě ale i v barvě ivory.
+        Na mezinárodním veletrhu v Essenu (Německo) obdržely šaty AGNES cenu Award za nejlepší  kolekci  roku 2011.</p>
+            <div>
+        				<img style="padding: 0 0 3px 0"src="img/sv_saty/agnes/1_cena.jpg">
+        			</div>
 		    
 		  </div> <!-- end obsah-->
 			  <?php
